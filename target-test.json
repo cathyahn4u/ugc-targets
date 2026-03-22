@@ -7,8 +7,8 @@
       "firstName": "Auto",
       "niche": "Skincare/Makeup",
       "growthSignal": "4.5M+ followers; community-driven DTC model"
+      "variant": "A"
     },
-    "variant": "A"
   },
   {
     "brand": {
@@ -17,8 +17,8 @@
       "email": "cathyahn4u@pet-lepathy.com",
       "firstName": "Catherine",
       "niche": "PetTech",
-      "growthSignal": "Necessary for pets"    
+      "growthSignal": "Necessary for pets"  
+      "variant": "B"
     },
-    "variant": "B"
   }
 ]
