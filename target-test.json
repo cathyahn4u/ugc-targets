@@ -2,22 +2,22 @@
   {
     "brand": {
       "brandName": "Glossier",
-      "website": "glossier.com",      
+      "website": "glossier.com",
       "email": "auto@viroverse.online",
       "firstName": "Auto",
       "niche": "Skincare/Makeup",
-      "growthSignal": "4.5M+ followers; community-driven DTC model"
+      "growthSignal": "4.5M+ followers; community-driven DTC model",
       "variant": "A"
     }
   },
-  {
-    "brand": {
+  {   
+      "brand": {
       "brandName": "PetLepathy",
       "website": "pet-lepathy.com",
       "email": "cathyahn4u@pet-lepathy.com",
       "firstName": "Catherine",
       "niche": "PetTech",
-      "growthSignal": "Necessary for pets"  
+      "growthSignal": "Necessary for pets",
       "variant": "B"
     }
   }
