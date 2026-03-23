@@ -1,0 +1,3280 @@
+[
+  {
+    "brand": {
+      "brandName": "Colourette Cosmetics",
+      "website": "colourette.com",
+      "email": "marketing@colourette.com",
+      "firstName": "Marketing Team",
+      "niche": "Filipino vegan cosmetics brand",
+      "growthSignal": "TikTok viral brand, 500K+ IG followers, expanding to US/UK markets, $3-6M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Happy Skin",
+      "website": "happyskin.com.ph",
+      "email": "marketing@happyskin.com.ph",
+      "firstName": "Marketing Team",
+      "niche": "Clean K-beauty inspired makeup",
+      "growthSignal": "Celebrity Anne Curtis founded, Shopify DTC leader Philippines, $4-7M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BLK Cosmetics",
+      "website": "blkcosmetics.com.ph",
+      "email": "marketing@blkcosmetics.com.ph",
+      "firstName": "Marketing Team",
+      "niche": "Affordable Filipino makeup brand",
+      "growthSignal": "Anne Curtis brand, viral social sales, Lazada top seller, $5-9M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sunnies Face",
+      "website": "sunniesface.com",
+      "email": "marketing@sunniesface.com",
+      "firstName": "Marketing Team",
+      "niche": "Lifestyle-meets-beauty Filipino brand",
+      "growthSignal": "Fashion crossover success, strong DTC Shopify, regional expansion, $4-8M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ellana Minerals",
+      "website": "ellana.com.ph",
+      "email": "marketing@ellana.com.ph",
+      "firstName": "Marketing Team",
+      "niche": "Philippine mineral makeup",
+      "growthSignal": "Homegrown DTC pioneer, loyal Filipino customer base, $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Squad Cosmetics",
+      "website": "squadcosmetics.com",
+      "email": "marketing@squadcosmetics.com",
+      "firstName": "Marketing Team",
+      "niche": "Gen Z Filipino makeup",
+      "growthSignal": "Influencer-led DTC, strong social media presence, $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Fresh Formula",
+      "website": "freshformula.com",
+      "email": "marketing@freshformula.com",
+      "firstName": "Marketing Team",
+      "niche": "Natural Filipino skincare",
+      "growthSignal": "Local ingredients focus, DTC expansion, $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Issy & Co",
+      "website": "issy.co",
+      "email": "marketing@issy.co",
+      "firstName": "Marketing Team",
+      "niche": "Clean Filipino skincare",
+      "growthSignal": "Shopify DTC, growing clean beauty Philippines, $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Human Nature Philippines",
+      "website": "humannature.com.ph",
+      "email": "marketing@humannature.com.ph",
+      "firstName": "Marketing Team",
+      "niche": "Natural personal care social enterprise",
+      "growthSignal": "Social good model, strong Filipino DTC, $5-8M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Luxe Organix",
+      "website": "luxeorganix.com.ph",
+      "email": "marketing@luxeorganix.com.ph",
+      "firstName": "Marketing Team",
+      "niche": "K-beauty inspired affordable skincare",
+      "growthSignal": "Viral growth Philippines, DTC scaling, $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Somethinc",
+      "website": "somethinc.com",
+      "email": "marketing@somethinc.com",
+      "firstName": "Marketing Team",
+      "niche": "Science-backed Indonesian skincare",
+      "growthSignal": "Viral TikTok/IG growth, $8-15M ARR, expanding regionally, Series A funded",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Avoskin Beauty",
+      "website": "avoskinbeauty.com",
+      "email": "marketing@avoskinbeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Natural avocado-based skincare",
+      "growthSignal": "Indonesian natural beauty leader, Shopify DTC strong, $4-7M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Glad2Glow",
+      "website": "glad2glow.com",
+      "email": "rona.pea@glad2glow.com",
+      "firstName": "Rona",
+      "niche": "Halal-certified glow skincare",
+      "growthSignal": "Muslim beauty market leader Indonesia, DTC growth $3-6M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Whitelab",
+      "website": "whitelab.id",
+      "email": "marketing@whitelab.id",
+      "firstName": "Marketing Team",
+      "niche": "Dermatologist-formulated skincare",
+      "growthSignal": "Medical-grade positioning, Indonesian DTC scaling $3-6M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Skintific",
+      "website": "skintific.com",
+      "email": "aulia@skintific.com",
+      "firstName": "Aulia",
+      "niche": "K-beauty inspired DTC skincare",
+      "growthSignal": "Fast-growing Indonesian Shopify brand, viral products, $4-7M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dear Me Beauty",
+      "website": "dearmebeauty.id",
+      "email": "marketing@dearmebeauty.id",
+      "firstName": "Marketing Team",
+      "niche": "Inclusive Indonesian makeup",
+      "growthSignal": "Gen Z DTC brand, strong influencer partnerships, $2-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "NPure",
+      "website": "npure.id",
+      "email": "marketing@npure.id",
+      "firstName": "Marketing Team",
+      "niche": "Centella-based halal skincare",
+      "growthSignal": "Clean halal formulas, DTC Indonesian market leader, $3-5M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Scarlett Whitening",
+      "website": "scarlett-whitening.com",
+      "email": "marketing@scarlett-whitening.com",
+      "firstName": "Marketing Team",
+      "niche": "Brightening body care",
+      "growthSignal": "Viral Indonesian body care brand, TikTok growth, $5-8M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Emina Cosmetics",
+      "website": "eminacosmetics.com",
+      "email": "marketing@eminacosmetics.com",
+      "firstName": "Marketing Team",
+      "niche": "Teen Indonesian beauty",
+      "growthSignal": "Teen market leader Indonesia, DTC expanding, $6-10M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Base Beauty",
+      "website": "getbase.co.id",
+      "email": "marketing@getbase.co.id",
+      "firstName": "Marketing Team",
+      "niche": "Skin-first Indonesian makeup",
+      "growthSignal": "Skincare-makeup hybrid DTC Indonesia, $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "YY Project",
+      "website": "yyproject.co.id",
+      "email": "marketing@yyproject.co.id",
+      "firstName": "Marketing Team",
+      "niche": "Indonesian clean beauty",
+      "growthSignal": "Clean formulas DTC Indonesia, growing market, $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Azarine Cosmetic",
+      "website": "azarinecosmetic.com",
+      "email": "marketing@azarinecosmetic.com",
+      "firstName": "Marketing Team",
+      "niche": "Hydrating Indonesian skincare",
+      "growthSignal": "Hydr ating focus DTC, viral Indonesian brand, $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Trueve",
+      "website": "trueve.co.id",
+      "email": "marketing@trueve.co.id",
+      "firstName": "Marketing Team",
+      "niche": "Natural Indonesian skincare",
+      "growthSignal": "Natural ingredients DTC Indonesia, $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Labelyoung Indonesia",
+      "website": "labelyoung.id",
+      "email": "marketing@labelyoung.id",
+      "firstName": "Marketing Team",
+      "niche": "K-beauty in Indonesia",
+      "growthSignal": "K-beauty localized Indonesia DTC, $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Harlette",
+      "website": "harlette.co.id",
+      "email": "marketing@harlette.co.id",
+      "firstName": "Marketing Team",
+      "niche": "Indonesian makeup brand",
+      "growthSignal": "Local Indonesian cosmetics DTC, growing, $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "4U2 Cosmetics",
+      "website": "4u2cosmetics.com",
+      "email": "marketing@4u2cosmetics.com",
+      "firstName": "Marketing Team",
+      "niche": "Thai makeup DTC brand",
+      "growthSignal": "Local Thai leader expanding digital, Shopify growth $3-6M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Oriental Princess",
+      "website": "orientalprincess.com",
+      "email": "marketing@orientalprincess.com",
+      "firstName": "Marketing Team",
+      "niche": "Thai spa-inspired skincare",
+      "growthSignal": "Heritage brand modernizing DTC, regional expansion $4-7M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Snail White",
+      "website": "snailwhite.com",
+      "email": "marketing@snailwhite.com",
+      "firstName": "Marketing Team",
+      "niche": "Snail mucin skincare",
+      "growthSignal": "K-beauty inspired Thai brand, regional DTC leader $5-8M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Cute Press",
+      "website": "cutepress.com",
+      "email": "marketing@cutepress.com",
+      "firstName": "Marketing Team",
+      "niche": "Kawaii-inspired Thai makeup",
+      "growthSignal": "Gen Z Thai cosmetics, strong social presence $3-5M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Cathy Doll",
+      "website": "cathydoll.com",
+      "email": "marketing@cathydoll.com",
+      "firstName": "Marketing Team",
+      "niche": "Fun Thai beauty brand",
+      "growthSignal": "Regional SEA expansion, DTC Shopify scaling $5-9M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Srichand",
+      "website": "srichand.com",
+      "email": "marketing@srichand.com",
+      "firstName": "Marketing Team",
+      "niche": "Thai heritage powder brand",
+      "growthSignal": "Modernizing classic Thai beauty, DTC push $4-6M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Beauty Buffet",
+      "website": "beautybuffet.co.th",
+      "email": "marketing@beautybuffet.co.th",
+      "firstName": "Marketing Team",
+      "niche": "Fun affordable Thai beauty",
+      "growthSignal": "Strong Thai DTC presence, viral products, $5-7M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mistine",
+      "website": "mistine.co.th",
+      "email": "marketing@mistine.co.th",
+      "firstName": "Marketing Team",
+      "niche": "Thai mass beauty leader",
+      "growthSignal": "Expanding digital channels, strong DTC, $6-10M ARR online",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "ERB",
+      "website": "erb.co.th",
+      "email": "marketing@erb.co.th",
+      "firstName": "Marketing Team",
+      "niche": "Thai herbal natural skincare",
+      "growthSignal": "Organic Thai herbs DTC expansion, $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Chamonix Beauty",
+      "website": "chamonixbeauty.com",
+      "email": "marketing@chamonixbeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Alpine-Thai fusion skincare",
+      "growthSignal": "Unique positioning Thai DTC, growing, $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Cocoon Vietnam",
+      "website": "cocoon.vn",
+      "email": "marketing@cocoon.vn",
+      "firstName": "Marketing Team",
+      "niche": "Vietnamese natural beauty",
+      "growthSignal": "Local hero brand using Vietnamese ingredients, DTC leader $4-7M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Thorakao",
+      "website": "thorakao.com",
+      "email": "marketing@thorakao.com",
+      "firstName": "Marketing Team",
+      "niche": "Vietnamese herbal skincare",
+      "growthSignal": "Heritage Vietnamese herbs modernized, growing DTC $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Saigon My Love",
+      "website": "saigonmylove.com",
+      "email": "marketing@saigonmylove.com",
+      "firstName": "Marketing Team",
+      "niche": "Vietnam-inspired beauty brand",
+      "growthSignal": "Cultural Vietnamese beauty DTC, $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "ONGBAU",
+      "website": "ongbau.com",
+      "email": "marketing@ongbau.com",
+      "firstName": "Marketing Team",
+      "niche": "Vietnamese modern skincare",
+      "growthSignal": "Modern Vietnamese DTC approach, growing, $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lachampa",
+      "website": "lachampa.vn",
+      "email": "marketing@lachampa.vn",
+      "firstName": "Marketing Team",
+      "niche": "Vietnamese natural care",
+      "growthSignal": "Local Vietnamese ingredients focus DTC, $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Vietta Skincare",
+      "website": "viettaskincare.com",
+      "email": "marketing@viettaskincare.com",
+      "firstName": "Marketing Team",
+      "niche": "Vietnamese clean skincare",
+      "growthSignal": "Clean Vietnamese DTC brand, growing market, $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lam Skincare",
+      "website": "lamskincare.vn",
+      "email": "marketing@lamskincare.vn",
+      "firstName": "Marketing Team",
+      "niche": "Vietnamese botanical skincare",
+      "growthSignal": "Vietnamese botanicals DTC, emerging brand, $1-2M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Hoa My Hanh",
+      "website": "hoamyhanh.com",
+      "email": "marketing@hoamyhanh.com",
+      "firstName": "Marketing Team",
+      "niche": "Vietnamese traditional beauty",
+      "growthSignal": "Traditional Vietnamese beauty modernized DTC, $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sallve",
+      "website": "sallve.com.br",
+      "email": "marketing@sallve.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian clean skincare DTC",
+      "growthSignal": "VC-backed Brazilian DTC, $5M+ funding, scaling $4-8M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Care Natural Beauty",
+      "website": "carenaturalbeauty.com.br",
+      "email": "marketing@carenaturalbeauty.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian natural cosmetics",
+      "growthSignal": "Amazon rainforest ingredients, DTC growth Brazil $2-5M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BioAge",
+      "website": "bioage.com.br",
+      "email": "talita.gimenez@bioage.com.br",
+      "firstName": "Talita",
+      "niche": "Brazilian anti-aging skincare",
+      "growthSignal": "Science-backed DTC, growing Brazilian market $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Granado",
+      "website": "granado.com.br",
+      "email": "csili@granado.com.br",
+      "firstName": "Camila",
+      "niche": "Brazilian heritage pharmacy beauty",
+      "growthSignal": "1870s heritage modernizing DTC, international expansion $5-10M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Capim Santo",
+      "website": "capimsanto.com.br",
+      "email": "marketing@capimsanto.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian botanical skincare",
+      "growthSignal": "Natural Brazilian ingredients, artisan DTC $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Creamy Beauty",
+      "website": "usecreamy.com",
+      "email": "marketing@usecreamy.com",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian Gen Z skincare",
+      "growthSignal": "TikTok-viral Brazilian brand, young DTC audience $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "B.O.B Beauty",
+      "website": "bobbeauty.com.br",
+      "email": "marketing@bobbeauty.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian inclusive makeup",
+      "growthSignal": "Diversity-focused Brazilian DTC, growing market $2-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Vult Cosm ética",
+      "website": "vult.com.br",
+      "email": "marketing@vult.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Affordable Brazilian makeup",
+      "growthSignal": "Mass-to-DTC transition, strong Brazilian presence $6-10M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mahalo Beauty Brazil",
+      "website": "mahalo.com.br",
+      "email": "milena.mota@mahalo.com.br",
+      "firstName": "Milena",
+      "niche": "Brazilian clean beauty",
+      "growthSignal": "Clean formulas DTC Brazil, growing wellness market $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Beauts",
+      "website": "beauts.com.br",
+      "email": "marketing@beauts.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian vegan beauty",
+      "growthSignal": "Vegan DTC Brazil, ethical beauty positioning $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Natu Life",
+      "website": "natulife.com.br",
+      "email": "marketing@natulife.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian natural cosmetics",
+      "growthSignal": "Natural Brazilian DTC, growing organic market $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Almanati",
+      "website": "almanati.com.br",
+      "email": "marketing@almanati.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian botanical beauty",
+      "growthSignal": "Brazilian biodiversity DTC, artisan approach $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Botica 214",
+      "website": "botica214.com.br",
+      "email": "marketing@botica214.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian niche perfumery & skincare",
+      "growthSignal": "Artisan Brazilian DTC, luxury positioning $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Simple Organic",
+      "website": "simpleorganic.com.br",
+      "email": "clara@simpleorganic.com.br",
+      "firstName": "Clara",
+      "niche": "Brazilian organic skincare",
+      "growthSignal": "Certified organic DTC Brazil, clean beauty $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Phisalia",
+      "website": "phisalia.com.br",
+      "email": "marketing@phisalia.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian marine skincare",
+      "growthSignal": "Marine ingredients DTC Brazil, unique positioning $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pattriana",
+      "website": "pattriana.com",
+      "email": "marketing@pattriana.com",
+      "firstName": "Marketing Team",
+      "niche": "Mexican natural skincare",
+      "growthSignal": "Mexican botanicals DTC, growing wellness market $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Skin Six",
+      "website": "skinsix.mx",
+      "email": "marketing@skinsix.mx",
+      "firstName": "Marketing Team",
+      "niche": "Mexican DTC skincare",
+      "growthSignal": "Clean Mexican skincare, Shopify DTC growth $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Organi Chiado",
+      "website": "organichiado.com",
+      "email": "marketing@organichiado.com",
+      "firstName": "Marketing Team",
+      "niche": "Mexican organic beauty",
+      "growthSignal": "Organic certified Mexican DTC, artisan formulas $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Idraet",
+      "website": "idraet.com",
+      "email": "marketing@idraet.com",
+      "firstName": "Marketing Team",
+      "niche": "Mexican professional skincare",
+      "growthSignal": "Pro skincare going DTC Mexico, spa-to-consumer $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Flor de María Cosmetics",
+      "website": "flordemaria.mx",
+      "email": "marketing@flordemaria.mx",
+      "firstName": "Marketing Team",
+      "niche": "Mexican natural cosmetics",
+      "growthSignal": "Mexican natural beauty DTC, local ingredients $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Yuya Beauty",
+      "website": "yuyabeauty.com",
+      "email": "marketing@yuyabeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Mexican influencer beauty brand",
+      "growthSignal": "10M+ YouTuber Yuya's brand, massive Mexican following $5-8M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Perenne Cosmetics",
+      "website": "perennecosmetics.com",
+      "email": "marketing@perennecosmetics.com",
+      "firstName": "Marketing Team",
+      "niche": "Mexican clean makeup",
+      "growthSignal": "Clean Mexican cosmetics DTC, growing market $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Moixa Beauty",
+      "website": "moixabeauty.com",
+      "email": "marketing@moixabeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Mexican haircare brand",
+      "growthSignal": "Natural haircare DTC Mexico, curl focus $2-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nazca Beauty",
+      "website": "nazcabeauty.com",
+      "email": "marketing@nazcabeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Mexican indigenous beauty",
+      "growthSignal": "Indigenous Mexican ingredients DTC, unique story $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Gira Sol Organics",
+      "website": "girasol-organics.com.mx",
+      "email": "marketing@girasol-organics.com.mx",
+      "firstName": "Marketing Team",
+      "niche": "Mexican organic skincare",
+      "growthSignal": "Organic Mexican DTC, sunflower-based products $1-2M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Be Grand",
+      "website": "begrand.mx",
+      "email": "mariana.lezama@begrand.mx",
+      "firstName": "Mariana",
+      "niche": "Mexican premium cosmetics",
+      "growthSignal": "Premium Mexican DTC brand, growing market $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lorena G Cosmetics",
+      "website": "lorenag.mx",
+      "email": "marketing@lorenag.mx",
+      "firstName": "Marketing Team",
+      "niche": "Mexican makeup brand",
+      "growthSignal": "Mexican influencer cosmetics DTC, $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Natvra",
+      "website": "natvra.co",
+      "email": "marketing@natvra.co",
+      "firstName": "Marketing Team",
+      "niche": "Colombian clean beauty",
+      "growthSignal": "Colombian natural DTC brand, regional expansion $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ella Organic Skincare",
+      "website": "ellacare.co",
+      "email": "marketing@ellacare.co",
+      "firstName": "Marketing Team",
+      "niche": "Colombian organic skincare",
+      "growthSignal": "Colombian coffee-based skincare, DTC growth $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Natural Skin Care Colombia",
+      "website": "naturalskincarecolombia.com",
+      "email": "marketing@naturalskincarecolombia.com",
+      "firstName": "Marketing Team",
+      "niche": "Colombian natural beauty",
+      "growthSignal": "Colombian botanicals DTC, growing market $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Araku Beauty",
+      "website": "arakubeauty.com",
+      "email": "marketing@arakubeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Colombian indigenous beauty",
+      "growthSignal": "Indigenous Colombian ingredients DTC, unique $1-2M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mad Cosmetics",
+      "website": "madcosmetics.com.ar",
+      "email": "marketing@madcosmetics.com.ar",
+      "firstName": "Marketing Team",
+      "niche": "Argentine makeup brand",
+      "growthSignal": "Argentine indie makeup DTC, growing market $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lidherma",
+      "website": "lidherma.com",
+      "email": "dcalandra@lidherma.com",
+      "firstName": "Daniela",
+      "niche": "Argentine derm skincare",
+      "growthSignal": "Argentine dermatological DTC, pro-to-consumer $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Punto Blanco",
+      "website": "puntoblanco.com.ar",
+      "email": "marketing@puntoblanco.com.ar",
+      "firstName": "Marketing Team",
+      "niche": "Argentine natural cosmetics",
+      "growthSignal": "Argentine natural beauty DTC, established brand $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rayito de Sol",
+      "website": "rayitodesol.cl",
+      "email": "marketing@rayitodesol.cl",
+      "firstName": "Marketing Team",
+      "niche": "Chilean natural skincare",
+      "growthSignal": "Chilean DTC using local ingredients, growing $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Brocha Cosmetics",
+      "website": "brocha.cl",
+      "email": "marketing@brocha.cl",
+      "firstName": "Marketing Team",
+      "niche": "Chilean makeup brand",
+      "growthSignal": "Chilean indie makeup DTC, influencer-driven $2-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bendito Cacao",
+      "website": "benditocacao.cl",
+      "email": "marketing@benditocacao.cl",
+      "firstName": "Marketing Team",
+      "niche": "Chilean cacao-based beauty",
+      "growthSignal": "Chilean cacao beauty DTC, unique ingredients $1-2M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "African Extracts",
+      "website": "africanextracts.com",
+      "email": "marketing@africanextracts.com",
+      "firstName": "Marketing Team",
+      "niche": "South African Rooibos skincare",
+      "growthSignal": "Indigenous ingredients DTC, international expansion $3-6M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Esse Skincare",
+      "website": "esseskincare.com",
+      "email": "amy@esseskincare.com",
+      "firstName": "Amy",
+      "niche": "South African probiotic organic skincare",
+      "growthSignal": "B Corp certified, global DTC expansion from SA, $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Skoon Skincare",
+      "website": "skoon.co.za",
+      "email": "marketing@skoon.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African waterless beauty",
+      "growthSignal": "Innovative waterless format, SA DTC leader $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mangwanani",
+      "website": "mangwanani.co.za",
+      "email": "marketing@mangwanani.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African spa skincare",
+      "growthSignal": "Spa-to-DTC model, African ingredients $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Oh So Heavenly",
+      "website": "ohsoheavenly.co.za",
+      "email": "marketing@ohsoheavenly.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African body care",
+      "growthSignal": "SA mass-to-DTC transition, growing digital $3-5M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "JustPure",
+      "website": "justpure.co.za",
+      "email": "marketing@justpure.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African natural beauty",
+      "growthSignal": "Natural SA beauty DTC, clean formulas $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Imbue Natural",
+      "website": "imbuecurls.com",
+      "email": "marketing@imbuecurls.com",
+      "firstName": "Marketing Team",
+      "niche": "South African curl care",
+      "growthSignal": "Curl-focused SA brand, textured hair DTC $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Earth Child",
+      "website": "earthchild.co.za",
+      "email": "marketing@earthchild.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African organic baby care",
+      "growthSignal": "Organic SA baby beauty, DTC growing $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Beauty Stack",
+      "website": "beautystack.co.za",
+      "email": "marketing@beautystack.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African clean beauty marketplace",
+      "growthSignal": "SA clean beauty platform DTC, curated brands $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mancave South Africa",
+      "website": "mancave.co.za",
+      "email": "marketing@mancave.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African men's grooming",
+      "growthSignal": "Men's grooming DTC SA, growing market $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Annique",
+      "website": "annique.com",
+      "email": "wynand.pretorius@annique.com",
+      "firstName": "Wynand",
+      "niche": "South African Rooibos beauty",
+      "growthSignal": "Established SA brand expanding DTC, $4-7M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Skin Wisdom",
+      "website": "skinwisdom.co.za",
+      "email": "marketing@skinwisdom.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African therapeutic skincare",
+      "growthSignal": "Therapeutic SA skincare DTC, niche focus $1-2M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Zaron Cosmetics",
+      "website": "zaroncosmetics.com",
+      "email": "cassandra@zaroncosmetics.com",
+      "firstName": "Cassandra",
+      "niche": "Nigerian makeup brand",
+      "growthSignal": "Leading Nigerian makeup DTC, Pan-African expansion $3-6M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Reds Africa",
+      "website": "redsafrica.com",
+      "email": "marketing@redsafrica.com",
+      "firstName": "Marketing Team",
+      "niche": "Nigerian beauty brand",
+      "growthSignal": "Nigerian DTC beauty, growing digital market $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "House of Tara",
+      "website": "houseoftara.com",
+      "email": "marketing@houseoftara.com",
+      "firstName": "Marketing Team",
+      "niche": "Nigerian cosmetics",
+      "growthSignal": "Iconic Nigerian makeup brand, DTC expansion $4-7M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "IGI and GO",
+      "website": "igiandigo.com",
+      "email": "marketing@igiandigo.com",
+      "firstName": "Marketing Team",
+      "niche": "Nigerian beauty brand",
+      "growthSignal": "Nigerian celebrity-founded DTC, growing $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lush Nigeria",
+      "website": "lushng.com",
+      "email": "marketing@lushng.com",
+      "firstName": "Marketing Team",
+      "niche": "Nigerian natural beauty",
+      "growthSignal": "Natural Nigerian DTC, local ingredients $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rayysa Skincare",
+      "website": "rayssaskincare.com",
+      "email": "marketing@rayssaskincare.com",
+      "firstName": "Marketing Team",
+      "niche": "Nigerian skincare brand",
+      "growthSignal": "Nigerian melanin-focused DTC, growing market $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Marini Naturals",
+      "website": "marininaturals.com",
+      "email": "marketing@marininaturals.com",
+      "firstName": "Marketing Team",
+      "niche": "Kenyan natural haircare",
+      "growthSignal": "Kenyan Afro-hair DTC brand, Pan-African growth $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lola Skincare Kenya",
+      "website": "lolaskincare.co.ke",
+      "email": "marketing@lolaskincare.co.ke",
+      "firstName": "Marketing Team",
+      "niche": "Kenyan natural skincare",
+      "growthSignal": "Kenyan botanical DTC, East African expansion $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lovegrass Beauty",
+      "website": "lovegrassbeauty.com",
+      "email": "marketing@lovegrassbeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Kenyan indigenous beauty",
+      "growthSignal": "African indigenous ingredients DTC Kenya $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Soko Beauty Kenya",
+      "website": "sokobeauty.co.ke",
+      "email": "marketing@sokobeauty.co.ke",
+      "firstName": "Marketing Team",
+      "niche": "Kenyan clean beauty",
+      "growthSignal": "Kenyan DTC clean beauty, emerging market $1-2M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bielenda",
+      "website": "bielenda.pl",
+      "email": "v.tuz@bielenda.pl",
+      "firstName": "Viktoria",
+      "niche": "Polish skincare brand",
+      "growthSignal": "Polish beauty leader expanding DTC internationally, $6-10M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ziaja",
+      "website": "ziaja.com",
+      "email": "marketing@ziaja.com",
+      "firstName": "Marketing Team",
+      "niche": "Polish pharmacy beauty",
+      "growthSignal": "Polish pharmacy brand going DTC, EU expansion $7-10M ARR digital",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Eveline Cosmetics",
+      "website": "eveline-cosmetics.eu",
+      "email": "marketing@eveline-cosmetics.eu",
+      "firstName": "Marketing Team",
+      "niche": "Polish makeup & skincare",
+      "growthSignal": "Polish beauty exporting DTC, CEE leader $5-9M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Farmona",
+      "website": "farmona.com",
+      "email": "marketing@farmona.com",
+      "firstName": "Marketing Team",
+      "niche": "Polish professional skincare",
+      "growthSignal": "Polish spa-to-DTC, international growth $4-7M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Inglot",
+      "website": "inglotcosmetics.com",
+      "email": "marketing@inglotcosmetics.com",
+      "firstName": "Marketing Team",
+      "niche": "Polish makeup brand",
+      "growthSignal": "Global Polish makeup DTC, custom palette innovation $8-10M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Oceanic",
+      "website": "oceanic.pl",
+      "email": "marketing@oceanic.pl",
+      "firstName": "Marketing Team",
+      "niche": "Polish marine skincare",
+      "growthSignal": "Polish sea-inspired DTC, growing EU market $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "AVA Cosmetics Poland",
+      "website": "ava.pl",
+      "email": "marketing@ava.pl",
+      "firstName": "Marketing Team",
+      "niche": "Polish professional beauty",
+      "growthSignal": "Polish beauty DTC, derma focus $3-5M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bell Cosmetics",
+      "website": "bellcosmetics.pl",
+      "email": "marketing@bellcosmetics.pl",
+      "firstName": "Marketing Team",
+      "niche": "Polish color cosmetics",
+      "growthSignal": "Polish makeup DTC, vegan line expansion $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Verona Products",
+      "website": "veronaproducts.com",
+      "email": "marketing@veronaproducts.com",
+      "firstName": "Marketing Team",
+      "niche": "Polish nail & makeup",
+      "growthSignal": "Polish beauty DTC, nail focus $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "OnlyBio",
+      "website": "onlybio.eu",
+      "email": "marketing@onlybio.eu",
+      "firstName": "Marketing Team",
+      "niche": "Polish natural haircare",
+      "growthSignal": "Polish clean haircare DTC, viral growth $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lirene",
+      "website": "lirene.pl",
+      "email": "marketing@lirene.pl",
+      "firstName": "Marketing Team",
+      "niche": "Polish drugstore skincare",
+      "growthSignal": "Polish DTC skincare, EU markets $3-5M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Tolpa",
+      "website": "tolpa.com",
+      "email": "marketing@tolpa.com",
+      "firstName": "Marketing Team",
+      "niche": "Polish peat-based skincare",
+      "growthSignal": "Polish natural DTC, unique peat ingredient $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dermacol",
+      "website": "dermacol.com",
+      "email": "marketing@dermacol.com",
+      "firstName": "Marketing Team",
+      "niche": "Czech makeup brand",
+      "growthSignal": "Czech makeup legend DTC expansion, viral coverage foundation $5-8M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Manufaktura",
+      "website": "manufaktura.cz",
+      "email": "dagmar.zdrhova@manufaktura.cz",
+      "firstName": "Dagmar",
+      "niche": "Czech natural skincare",
+      "growthSignal": "Czech beer/wine skincare DTC, unique ingredients $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nobilis Tilia",
+      "website": "nobilis.cz",
+      "email": "marketing@nobilis.cz",
+      "firstName": "Marketing Team",
+      "niche": "Czech aromatherapy beauty",
+      "growthSignal": "Czech essential oil DTC, organic focus $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Renovality",
+      "website": "renovality.cz",
+      "email": "marketing@renovality.cz",
+      "firstName": "Marketing Team",
+      "niche": "Czech affordable skincare",
+      "growthSignal": "Czech budget DTC skincare, regional growth $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ryor",
+      "website": "ryor.cz",
+      "email": "krockova@ryor.cz",
+      "firstName": "Katerina",
+      "niche": "Czech natural cosmetics",
+      "growthSignal": "Czech herbal DTC, established brand $2-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Gerovital",
+      "website": "gerovital.ro",
+      "email": "marketing@gerovital.ro",
+      "firstName": "Marketing Team",
+      "niche": "Romanian anti-aging",
+      "growthSignal": "Romanian heritage brand DTC, anti-aging focus $4-7M ARR digital",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Farmec",
+      "website": "farmec.ro",
+      "email": "tudor.david@farmec.ro",
+      "firstName": "Tudor",
+      "niche": "Romanian beauty legacy",
+      "growthSignal": "Romanian 70-year brand modernizing DTC $5-8M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Cosmetic Plant",
+      "website": "cosmeticplant.ro",
+      "email": "marketing@cosmeticplant.ro",
+      "firstName": "Marketing Team",
+      "niche": "Romanian natural beauty",
+      "growthSignal": "Romanian herbal DTC, traditional formulas $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Gerocossen",
+      "website": "gerocossen.ro",
+      "email": "marketing@gerocossen.ro",
+      "firstName": "Marketing Team",
+      "niche": "Romanian skincare",
+      "growthSignal": "Romanian DTC skincare, growing market $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Herbária",
+      "website": "herbaria.hu",
+      "email": "marketing@herbaria.hu",
+      "firstName": "Marketing Team",
+      "niche": "Hungarian herbal cosmetics",
+      "growthSignal": "Hungarian heritage herbs DTC, EU expansion $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Yamuna",
+      "website": "yamuna.hu",
+      "email": "marketing@yamuna.hu",
+      "firstName": "Marketing Team",
+      "niche": "Hungarian natural skincare",
+      "growthSignal": "Hungarian artisan DTC, thermal water products $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Illes",
+      "website": "illes.hu",
+      "email": "marketing@illes.hu",
+      "firstName": "Marketing Team",
+      "niche": "Hungarian thermal spa products",
+      "growthSignal": "Hungarian spa DTC, thermal heritage $2-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dr. Rimpler Hungary",
+      "website": "dr-rimpler.hu",
+      "email": "marketing@dr-rimpler.hu",
+      "firstName": "Marketing Team",
+      "niche": "Hungarian professional skincare",
+      "growthSignal": "Hungarian pro skincare DTC, spa-to-consumer $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dear Me Beauty Malaysia",
+      "website": "dearmebeauty.com",
+      "email": "sabrina@dearmebeauty.com",
+      "firstName": "Sabrina",
+      "niche": "Inclusive Malaysian makeup",
+      "growthSignal": "Malaysian inclusive beauty DTC, growing SEA market $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Skin Genie",
+      "website": "skingenie.com.my",
+      "email": "marketing@skingenie.com.my",
+      "firstName": "Marketing Team",
+      "niche": "Malaysian clean skincare",
+      "growthSignal": "Malaysian DTC clean beauty, growing market $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Khind Beauty",
+      "website": "khindbeauty.com",
+      "email": "marketing@khindbeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Malaysian beauty tech",
+      "growthSignal": "Malaysian beauty devices DTC, tech-enabled $2-4M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Krave Beauty",
+      "website": "kravebeauty.com",
+      "email": "marketing@kravebeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Korean-American skincare",
+      "growthSignal": "K-beauty DTC expanding to SEA, $3-5M ARR, international growth",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Allies of Skin",
+      "website": "alliesofskin.com",
+      "email": "marketing@alliesofskin.com",
+      "firstName": "Marketing Team",
+      "niche": "Singapore science skincare",
+      "growthSignal": "Singapore-founded DTC, science-backed, global expansion $3-6M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Vice Cosmetics",
+      "website": "vicecosmetics.com.ph",
+      "email": "marketing@vicecosmetics.com.ph",
+      "firstName": "Marketing Team",
+      "niche": "Filipino celebrity makeup",
+      "growthSignal": "Vice Ganda brand, massive Filipino following, $5-8M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pink Sugar",
+      "website": "pinksugarbeauty.com",
+      "email": "marketing@pinksugarbeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Filipino beauty brand",
+      "growthSignal": "Established Filipino DTC, expanding digital $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Careline Cosmetics",
+      "website": "carelinebeauty.com",
+      "email": "marketing@carelinebeauty.com",
+      "firstName": "Marketing Team",
+      "niche": "Affordable Filipino makeup",
+      "growthSignal": "Filipino mass brand growing DTC, $4-7M ARR digital",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Make Over",
+      "website": "makeoverid.com",
+      "email": "marketing@makeoverid.com",
+      "firstName": "Marketing Team",
+      "niche": "Indonesian professional makeup",
+      "growthSignal": "Indonesian MUA brand DTC, strong following $6-10M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rollover Reaction",
+      "website": "rolloverreaction.com",
+      "email": "marketing@rolloverreaction.com",
+      "firstName": "Marketing Team",
+      "niche": "Indonesian Gen Z skincare",
+      "growthSignal": "Viral Indonesian Gen Z DTC brand, $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Luxcrime",
+      "website": "luxcrime.co.id",
+      "email": "marketing@luxcrime.co.id",
+      "firstName": "Marketing Team",
+      "niche": "Indonesian affordable makeup",
+      "growthSignal": "Indonesian budget beauty DTC, viral growth $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BSC Falless",
+      "website": "bscfalless.com",
+      "email": "marketing@bscfalless.com",
+      "firstName": "Marketing Team",
+      "niche": "Thai hair loss treatment",
+      "growthSignal": "Thai hair wellness DTC, niche market leader $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pañpuri",
+      "website": "panpuri.com",
+      "email": "marketing@panpuri.com",
+      "firstName": "Marketing Team",
+      "niche": "Thai luxury organic spa",
+      "growthSignal": "Thai luxury spa DTC, international expansion $3-5M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Senka Vietnam",
+      "website": "senka.com.vn",
+      "email": "marketing@senka.com.vn",
+      "firstName": "Marketing Team",
+      "niche": "Japanese skincare in Vietnam",
+      "growthSignal": "Japanese brand localized Vietnam DTC, growing $3-5M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Koohinoor",
+      "website": "koohinoor.vn",
+      "email": "marketing@koohinoor.vn",
+      "firstName": "Marketing Team",
+      "niche": "Vietnamese luxury beauty",
+      "growthSignal": "Vietnamese premium DTC, growing luxury segment $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Coisas De Diva",
+      "website": "coisasdediva.com.br",
+      "email": "marketing@coisasdediva.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian beauty accessories",
+      "growthSignal": "Brazilian beauty tools DTC, strong online $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bia Beauty",
+      "website": "biabeauty.com.br",
+      "email": "marketing@biabeauty.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian teen beauty",
+      "growthSignal": "Brazilian Gen Z beauty DTC, growing market $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Cativa Natureza",
+      "website": "cativanatureza.com.br",
+      "email": "marketing@cativanatureza.com.br",
+      "firstName": "Marketing Team",
+      "niche": "Brazilian natural haircare",
+      "growthSignal": "Brazilian curly haircare DTC, curl community $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Fenty Skin Africa",
+      "website": "fentyskin.co.za",
+      "email": "marketing@fentyskin.co.za",
+      "firstName": "Marketing Team",
+      "niche": "Rihanna brand in South Africa",
+      "growthSignal": "Global brand SA DTC expansion, $3-5M ARR regional",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Beauty on Fleek",
+      "website": "beautyonfleek.co.za",
+      "email": "marketing@beautyonfleek.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African diverse beauty",
+      "growthSignal": "SA inclusive beauty DTC, diverse shades $1-3M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Afro Botanics",
+      "website": "afrobotanics.co.za",
+      "email": "marketing@afrobotanics.co.za",
+      "firstName": "Marketing Team",
+      "niche": "South African Afro haircare",
+      "growthSignal": "SA textured haircare DTC, natural ingredients $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sleek Makeup Nigeria",
+      "website": "sleekmakeup.com.ng",
+      "email": "marketing@sleekmakeup.com.ng",
+      "firstName": "Marketing Team",
+      "niche": "UK brand in Nigeria",
+      "growthSignal": "International brand Nigeria DTC, melanin focus $2-4M ARR",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Shea Radiance",
+      "website": "shearadiance.com",
+      "email": "marketing@shearadiance.com",
+      "firstName": "Marketing Team",
+      "niche": "African shea beauty",
+      "growthSignal": "African shea-based DTC, ethical sourcing $1-3M ARR",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Re'equil",
+      "website": "reequil.com",
+      "email": "aayush@reequil.com",
+      "firstName": "Aayush",
+      "niche": "Dermatologist-formulated problem-solving skincare",
+      "growthSignal": "300K+ Instagram, acne & pigmentation focus, medical backing",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Inveda",
+      "website": "inveda.in",
+      "email": "abhay@inveda.in",
+      "firstName": "Abhay",
+      "niche": "Natural Ayurvedic skincare",
+      "growthSignal": "80K+ Instagram, affordable Ayurveda, growing e-commerce",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Renee",
+      "website": "reneecosmetics.in",
+      "email": "abhijeet.shinde@reneecosmetics.in",
+      "firstName": "Abhijeet",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "160K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bombay Shaving Company",
+      "website": "bombayshavingcompany.com",
+      "email": "abhijeet@bombayshavingcompany.com",
+      "firstName": "Abhijeet",
+      "niche": "Men's grooming & shaving subscription",
+      "growthSignal": "300K+ Instagram, $20M funded, subscription model traction",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Swiss Beauty",
+      "website": "swissbeauty.in",
+      "email": "akshay.amber@swissbeauty.in",
+      "firstName": "Akshay",
+      "niche": "Professional quality affordable makeup",
+      "growthSignal": "600K+ Instagram, viral TikTok/Reels, budget beauty leader",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Soultree",
+      "website": "soultree.in",
+      "email": "ankita.arora@soultree.in",
+      "firstName": "Ankita",
+      "niche": "Certified organic Ayurvedic beauty",
+      "growthSignal": "100K+ Instagram, USDA organic certified, clean Ayurveda",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Al Haramain",
+      "website": "alharamainperfumes.com",
+      "email": "ashfaq@alharamainperfumes.com",
+      "firstName": "Mohammed",
+      "niche": "Traditional Arabian attars & oriental perfumes",
+      "growthSignal": "150K+ Instagram, 50+ years heritage, global expansion",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Foxtale",
+      "website": "foxtale.in",
+      "email": "ashish@foxtale.in",
+      "firstName": "Ashish",
+      "niche": "Dermatologist-formulated skincare",
+      "growthSignal": "300K+ Instagram, Series A funded, science-led positioning",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rituals Dubai",
+      "website": "rituals.com",
+      "email": "barbara.folkerts@rituals.com",
+      "firstName": "Barbara",
+      "niche": "Home & body cosmetics rituals",
+      "growthSignal": "500K+ Instagram, 750+ stores, Dubai flagship",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Laneige Turkey",
+      "website": "laneige.com",
+      "email": "barbara@laneige.com",
+      "firstName": "Barbara",
+      "niche": "Beauty & personal care",
+      "growthSignal": "96K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Purplle Private Label",
+      "website": "purplle.com",
+      "email": "brands@purplle.com",
+      "firstName": "Team",
+      "niche": "Digital Marketing Manager contact",
+      "growthSignal": "E-commerce marketplace unicorn, 6M+ customers",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bella Vita Organic",
+      "website": "bellavitaorganic.com",
+      "email": "collab@bellavitaorganic.com",
+      "firstName": "Team",
+      "niche": "Natural/Ayurvedic wellness & beauty",
+      "growthSignal": "83K+ Instagram, clean/natural positioning, heritage formulations",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dr. Sheth's",
+      "website": "drsheths.com",
+      "email": "collab@drsheths.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "124K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pilgrim",
+      "website": "pilgrimproducts.in",
+      "email": "collab@pilgrimproducts.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "120K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Renee Cosmetics",
+      "website": "reneecosmetics.com",
+      "email": "collab@reneecosmetics.com",
+      "firstName": "Team",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "157K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "The Man Company",
+      "website": "themancompany.com",
+      "email": "collab@themancompany.com",
+      "firstName": "Team",
+      "niche": "Men's grooming & personal care",
+      "growthSignal": "67K+ social, growing men's category, DTC subscription",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "TNW",
+      "website": "tnwskincare.com",
+      "email": "collab@tnwskincare.com",
+      "firstName": "Team",
+      "niche": "Skincare & dermatology",
+      "growthSignal": "50K+ social, science-backed formulas, DTC growth",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ustraa",
+      "website": "ustraa.com",
+      "email": "collab@ustraa.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "103K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Kiro Beauty",
+      "website": "kirobeauty.com",
+      "email": "drishti.mutta@kirobeauty.com",
+      "firstName": "Drishti",
+      "niche": "Personalized makeup for Indian skin undertones",
+      "growthSignal": "200K+ Instagram, AI color matching, DTC personalization",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Smytten",
+      "website": "smytten.com",
+      "email": "drishya.p@smytten.com",
+      "firstName": "Drishya",
+      "niche": "Beauty & personal care",
+      "growthSignal": "94K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Penhaligon Dubai",
+      "website": "penhaligons.com",
+      "email": "ehomer@penhaligons.com",
+      "firstName": "Erin",
+      "niche": "British heritage perfumery",
+      "growthSignal": "300K+ Instagram, 150+ years, MENA boutiques",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Isntree",
+      "website": "isntree.com",
+      "email": "global_marketing@isntree.com",
+      "firstName": null,
+      "niche": "Beauty & personal care",
+      "growthSignal": "131K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Byredo UAE",
+      "website": "byredo.com",
+      "email": "gprieto@byredo.com",
+      "firstName": "Guillermo",
+      "niche": "Luxury niche fragrance",
+      "growthSignal": "1M+ Instagram, cult following, MENA expansion",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nykaad Beauty",
+      "website": "nykaa.com",
+      "email": "harshad.pawar@nykaa.com",
+      "firstName": "Harshad",
+      "niche": "Beauty & personal care",
+      "growthSignal": "131K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Anatolia Botanica",
+      "website": "anatoliabotanica.com",
+      "email": "hello@anatoliabotanica.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "133K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ayouthveda",
+      "website": "ayouthveda.com",
+      "email": "hello@ayouthveda.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "123K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Azah",
+      "website": "azah.health",
+      "email": "hello@azah.health",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "78K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bakeup Beauty",
+      "website": "bakeupbeauty.com",
+      "email": "hello@bakeupbeauty.com",
+      "firstName": "Team",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "167K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BellaVitano",
+      "website": "bellavitano.in",
+      "email": "hello@bellavitano.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "68K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Cocosh",
+      "website": "cocosh.com",
+      "email": "hello@cocosh.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "61K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Daughter Earth",
+      "website": "daughterearth.in",
+      "email": "hello@daughterearth.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "112K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Disguise Cosmetics",
+      "website": "disguisecosmetics.com",
+      "email": "hello@disguisecosmetics.com",
+      "firstName": "Team",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "140K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "D'you",
+      "website": "dyou.in",
+      "email": "hello@dyou.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "125K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Fix My Curls",
+      "website": "fixmycurls.com",
+      "email": "hello@fixmycurls.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "120K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Glossarie",
+      "website": "glossarie.com",
+      "email": "hello@glossarie.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "131K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Good Vibes",
+      "website": "goodvibes.in",
+      "email": "hello@goodvibes.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "127K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Greenberry Organics",
+      "website": "greenberryorganics.com",
+      "email": "hello@greenberryorganics.com",
+      "firstName": "Team",
+      "niche": "Natural/Ayurvedic wellness & beauty",
+      "growthSignal": "81K+ Instagram, clean/natural positioning, heritage formulations",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ilana Organics",
+      "website": "ilanaorganics.com",
+      "email": "hello@ilanaorganics.com",
+      "firstName": "Team",
+      "niche": "Natural/Ayurvedic wellness & beauty",
+      "growthSignal": "62K+ Instagram, clean/natural positioning, heritage formulations",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Juicy Chemistry",
+      "website": "juicychemistry.com",
+      "email": "hello@juicychemistry.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "101K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Kayali",
+      "website": "kayali.com",
+      "email": "hello@kayali.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "113K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Man Matters",
+      "website": "manmatters.com",
+      "email": "hello@manmatters.com",
+      "firstName": "Team",
+      "niche": "Men's grooming & personal care",
+      "growthSignal": "154K+ social, growing men's category, DTC subscription",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Neemli Naturals",
+      "website": "neemli.com",
+      "email": "hello@neemli.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "79K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Niche Beauty Lab",
+      "website": "nichebeautylab.com",
+      "email": "hello@nichebeautylab.com",
+      "firstName": "Team",
+      "niche": "Niche & indie beauty curation",
+      "growthSignal": "Curated niche brands, growing MENA beauty discovery",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nish Hair",
+      "website": "nishhair.com",
+      "email": "hello@nishhair.com",
+      "firstName": "Parul",
+      "niche": "Haircare & scalp wellness",
+      "growthSignal": "127K+ Instagram, natural ingredients, subscription potential",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Omorfee",
+      "website": "omorfee.com",
+      "email": "hello@omorfee.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "117K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Prolixr",
+      "website": "prolixr.com",
+      "email": "hello@prolixr.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "64K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "PureHeals",
+      "website": "pureheals.in",
+      "email": "hello@pureheals.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "109K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Riiffs",
+      "website": "riiffs.com",
+      "email": "hello@riiffs.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "146K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rivayat",
+      "website": "rivayat.com",
+      "email": "hello@rivayat.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "54K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Skinkraft",
+      "website": "skinkraft.com",
+      "email": "hello@skinkraft.com",
+      "firstName": "Team",
+      "niche": "Skincare & dermatology",
+      "growthSignal": "61K+ social, science-backed formulas, DTC growth",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Soulflower",
+      "website": "soulflower.biz",
+      "email": "hello@soulflower.biz",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "72K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "The Body Cupid",
+      "website": "thebodycupid.com",
+      "email": "hello@thebodycupid.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "76K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "The Gouda Company",
+      "website": "thegoudacompany.com",
+      "email": "hello@thegoudacompany.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 71K+ social, halal-certified, e-commerce expansion",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "The Love Co",
+      "website": "theloveco.in",
+      "email": "hello@theloveco.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "123K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "The Moms Co",
+      "website": "themomscoindia.com",
+      "email": "hello@themomscoindia.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "55K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Traya Health",
+      "website": "trayahealth.com",
+      "email": "hello@trayahealth.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "120K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mamaearth",
+      "website": "mamaearth.in",
+      "email": "hiteshi.b@mamaearth.in",
+      "firstName": "Hiteshi",
+      "niche": "Natural toxin-free mother & baby care",
+      "growthSignal": "800K+ Instagram, Series E funded, Unicorn status, Shark Tank backed",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Afnan Perfumes",
+      "website": "afnanperfumes.com",
+      "email": "info@afnanperfumes.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 73K+ social, halal-certified, e-commerce expansion",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Alps Goodness",
+      "website": "alpsgoodness.com",
+      "email": "info@alpsgoodness.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "63K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Al Rehab",
+      "website": "alrehab.com.sa",
+      "email": "info@alrehab.com.sa",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "53K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Areej Al Amaken",
+      "website": "areejalamaken.com",
+      "email": "info@areejalamaken.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "89K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Armaf",
+      "website": "armafperfumes.com",
+      "email": "info@armafperfumes.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 77K+ social, halal-certified, e-commerce expansion",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Aroma Magic",
+      "website": "aromamag.com",
+      "email": "info@aromamag.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "75K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Blue Nectar",
+      "website": "bluenectar.co.in",
+      "email": "info@bluenectar.co.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "129K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Catherine Cosmetics",
+      "website": "catherine.com.tr",
+      "email": "info@catherine.com.tr",
+      "firstName": "Team",
+      "niche": "Turkish beauty & cosmetics",
+      "growthSignal": "217K+ social, strong Turkey/MENA presence, retail+online",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Cleopatra Cosmetics",
+      "website": "cleopatracosmetics.com",
+      "email": "info@cleopatracosmetics.com",
+      "firstName": "Team",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "127K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dehn Al Oud",
+      "website": "dehnaloud.com",
+      "email": "info@dehnaloud.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 90K+ social, halal-certified, e-commerce expansion",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Diana Cosmetics",
+      "website": "dianacosmetics.com.eg",
+      "email": "info@dianacosmetics.com.eg",
+      "firstName": "Team",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "121K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Earth Rhythm",
+      "website": "earthrhythm.com",
+      "email": "info@earthrhythm.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "99K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Gulsha",
+      "website": "gulsha.com",
+      "email": "info@gulsha.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "118K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Junaid Perfumes",
+      "website": "junaidperfumes.com",
+      "email": "info@junaidperfumes.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 46K+ social, halal-certified, e-commerce expansion",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Kess Perfumes",
+      "website": "kessperfumes.com",
+      "email": "info@kessperfumes.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 78K+ social, halal-certified, e-commerce expansion",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Khadi Essentials",
+      "website": "khadiessentials.com",
+      "email": "info@khadiessentials.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "146K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Khadi Natural",
+      "website": "khadinatural.com",
+      "email": "info@khadinatural.com",
+      "firstName": "Team",
+      "niche": "Natural/Ayurvedic wellness & beauty",
+      "growthSignal": "63K+ Instagram, clean/natural positioning, heritage formulations",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Khalis Perfumes",
+      "website": "khalisperfume.com",
+      "email": "info@khalisperfume.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 78K+ social, halal-certified, e-commerce expansion",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lattafa Perfumes",
+      "website": "lattafaperfumes.com",
+      "email": "info@lattafaperfumes.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 110K+ social, halal-certified, e-commerce expansion",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lootah",
+      "website": "lootah.com",
+      "email": "info@lootah.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "145K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Luxura",
+      "website": "luxurasaudi.com",
+      "email": "info@luxurasaudi.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "130K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Malva Cosmetics",
+      "website": "malvaegypt.com",
+      "email": "info@malvaegypt.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "92K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mikyajy",
+      "website": "mikyajy.com",
+      "email": "info@mikyajy.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "97K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nabeel Perfumes",
+      "website": "nabeelperfumes.com",
+      "email": "info@nabeelperfumes.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 60K+ social, halal-certified, e-commerce expansion",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Park Daniel",
+      "website": "parkdaniel.com",
+      "email": "info@parkdaniel.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "58K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pastel",
+      "website": "pastelkozmetik.com",
+      "email": "info@pastelkozmetik.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "146K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Penti Beauty",
+      "website": "penti.com.tr",
+      "email": "info@penti.com.tr",
+      "firstName": "Team",
+      "niche": "Turkish beauty & cosmetics",
+      "growthSignal": "133K+ social, strong Turkey/MENA presence, retail+online",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rosense",
+      "website": "rosense.com",
+      "email": "info@rosense.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "56K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rosie",
+      "website": "rosiebeauty.com.tr",
+      "email": "info@rosiebeauty.com.tr",
+      "firstName": "Team",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "168K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sevil Organic",
+      "website": "sevilorganic.com",
+      "email": "info@sevilorganic.com",
+      "firstName": "Team",
+      "niche": "Natural/Ayurvedic wellness & beauty",
+      "growthSignal": "77K+ Instagram, clean/natural positioning, heritage formulations",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Shahnaz Husain",
+      "website": "shahnazbeauty.com",
+      "email": "info@shahnazbeauty.com",
+      "firstName": "Team",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "65K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Shiffa Dubai",
+      "website": "shiffadubai.com",
+      "email": "info@shiffadubai.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "64K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "St. Botanica",
+      "website": "stbotanica.com",
+      "email": "info@stbotanica.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "126K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Tvam",
+      "website": "tvam.in",
+      "email": "info@tvam.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "142K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Yas Perfumes",
+      "website": "yasperfumes.com",
+      "email": "info@yasperfumes.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 102K+ social, halal-certified, e-commerce expansion",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Yourderm",
+      "website": "yourderm.com",
+      "email": "info@yourderm.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "149K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Zimaya",
+      "website": "zimayaperfumes.com",
+      "email": "info@zimayaperfumes.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 62K+ social, halal-certified, e-commerce expansion",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "WOW Skin Science",
+      "website": "buywow.in",
+      "email": "israr.khan@buywow.in",
+      "firstName": "Israr",
+      "niche": "Science-backed natural beauty & wellness",
+      "growthSignal": "1M+ Instagram, Apple Cider Vinegar viral, expanding Amazon",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Omorfee",
+      "website": "omorfee.com",
+      "email": "karman@omorfee.com",
+      "firstName": "Karman",
+      "niche": "Beauty & personal care",
+      "growthSignal": "119K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Conscious Chemist",
+      "website": "consciouschemist.com",
+      "email": "kashish@consciouschemist.com",
+      "firstName": "Kashish",
+      "niche": "Clean science-backed skincare",
+      "growthSignal": "150K+ Instagram, growing millennial DTC, transparent formulations",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "The Camel Soap Factory",
+      "website": "thecamelsoapfactory.com",
+      "email": "konrad@thecamelsoapfactory.com",
+      "firstName": "Konrad",
+      "niche": "Sustainable camel milk natural soap",
+      "growthSignal": "50K+ Instagram, unique UAE positioning, growing export",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lotus Herbals",
+      "website": "lotusherbals.com",
+      "email": "kunal.nath@lotusherbals.com",
+      "firstName": "Kunal",
+      "niche": "Beauty & personal care",
+      "growthSignal": "90K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "L'azurde",
+      "website": "lazurde.com",
+      "email": "laila.shafik@lazurde.com",
+      "firstName": "Laila",
+      "niche": "Jewelry & luxury accessories",
+      "growthSignal": "200K+ Instagram, MENA luxury leader, expanding beauty",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ajmal",
+      "website": "ajmalperfume.com",
+      "email": "marketing@ajmalperfume.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 109K+ social, halal-certified, e-commerce expansion",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Anfasic Dokhoon",
+      "website": "anfasicdokhoon.com",
+      "email": "marketing@anfasicdokhoon.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "70K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Arabian Oud",
+      "website": "arabianoud.com",
+      "email": "marketing@arabianoud.com",
+      "firstName": "Team",
+      "niche": "Arabian/Oriental fragrances & attars",
+      "growthSignal": "Growing GCC market, 51K+ social, halal-certified, e-commerce expansion",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Abdul Samad Al Qurashi",
+      "website": "asqgrp.com",
+      "email": "marketing@asqgrp.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "148K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Biotique",
+      "website": "biotique.com",
+      "email": "marketing@biotique.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "81K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Colorbar",
+      "website": "colorbarindia.com",
+      "email": "marketing@colorbarindia.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "64K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Denver",
+      "website": "denver.in",
+      "email": "marketing@denver.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "112K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Faces Canada",
+      "website": "facescanada.com",
+      "email": "marketing@facescanada.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "106K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Flormar",
+      "website": "flormar.com",
+      "email": "marketing@flormar.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "96K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Golden Rose",
+      "website": "goldenrose.com.tr",
+      "email": "marketing@goldenrose.com.tr",
+      "firstName": "Team",
+      "niche": "Turkish beauty & cosmetics",
+      "growthSignal": "280K+ social, strong Turkey/MENA presence, retail+online",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Indulekha",
+      "website": "indulekha.com",
+      "email": "marketing@indulekha.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "117K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Insight Cosmetics",
+      "website": "insightcosmetics.in",
+      "email": "marketing@insightcosmetics.in",
+      "firstName": "Team",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "128K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Inveda",
+      "website": "inveda.in",
+      "email": "marketing@inveda.in",
+      "firstName": "Team",
+      "niche": "Natural Ayurvedic skincare",
+      "growthSignal": "80K+ Instagram, affordable Ayurveda, growing e-commerce",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Just Herbs",
+      "website": "justherbs.in",
+      "email": "marketing@justherbs.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "101K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Kama Ayurveda",
+      "website": "kamaayurveda.com",
+      "email": "marketing@kamaayurveda.com",
+      "firstName": "Team",
+      "niche": "Natural/Ayurvedic wellness & beauty",
+      "growthSignal": "109K+ Instagram, clean/natural positioning, heritage formulations",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lotus Herbals",
+      "website": "lotusherbals.com",
+      "email": "marketing@lotusherbals.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "58K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mars Cosmetics",
+      "website": "marscosmetics.com",
+      "email": "marketing@marscosmetics.com",
+      "firstName": "Team",
+      "niche": "Cosmetics & color makeup",
+      "growthSignal": "119K+ Instagram, DTC e-commerce, growing retail presence",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nykaa Beauty",
+      "website": "nykaa.com",
+      "email": "marketing@nykaa.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "136K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Plum Goodness",
+      "website": "plumgoodness.com",
+      "email": "marketing@plumgoodness.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "95K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Set Wet",
+      "website": "setwet.in",
+      "email": "marketing@setwet.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "98K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Swiss Arabian",
+      "website": "swissarabian.com",
+      "email": "marketing@swissarabian.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "119K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Niche Beauty Lab",
+      "website": "nichebeautylab.com",
+      "email": "marta.badia@nichebeautylab.com",
+      "firstName": "Marta",
+      "niche": "Niche & indie beauty curation",
+      "growthSignal": "Curated niche brands, growing MENA beauty discovery",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bvlgari Fragrance",
+      "website": "bulgari.com",
+      "email": "melissa.cohen@bulgari.com",
+      "firstName": "Melissa",
+      "niche": "Luxury fragrance & accessories",
+      "growthSignal": "10M+ Instagram, ultra-luxury positioning",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sugar Cosmetics",
+      "website": "sugarcosmetics.com",
+      "email": "neethu@sugarcosmetics.com",
+      "firstName": "Neethu",
+      "niche": "Bold long-lasting makeup for Indian skin tones",
+      "growthSignal": "2M+ Instagram, Unicorn valuation, 150+ exclusive stores",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Arata",
+      "website": "arata.in",
+      "email": "nitish@arata.in",
+      "firstName": "Nitish",
+      "niche": "Natural haircare & personal care",
+      "growthSignal": "250K+ Instagram, Shark Tank India, clean ingredient focus",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Farmasi",
+      "website": "farmasi.com",
+      "email": "paloma.paiva@farmasi.com",
+      "firstName": "Paloma",
+      "niche": "Turkish MLM beauty & wellness",
+      "growthSignal": "2M+ social, 70+ countries, direct selling model",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MyGlamm",
+      "website": "myglamm.com",
+      "email": "partnerships@myglamm.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "139K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Fix My Curls",
+      "website": "fixmycurls.com",
+      "email": "rishika@fixmycurls.com",
+      "firstName": "Rishika",
+      "niche": "Beauty & personal care",
+      "growthSignal": "69K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Just Herbs",
+      "website": "justherbs.in",
+      "email": "ritika.ohri@justherbs.in",
+      "firstName": "Ritika",
+      "niche": "Beauty & personal care",
+      "growthSignal": "130K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Purplle",
+      "website": "purplle.com",
+      "email": "sachin.j@purplle.com",
+      "firstName": "Sachin",
+      "niche": "Digital Marketing Manager contact",
+      "growthSignal": "E-commerce marketplace unicorn, 6M+ customers",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Forest Essentials",
+      "website": "forestessentialsindia.com",
+      "email": "shreya.chandel@forestessentialsindia.com",
+      "firstName": "Shreya",
+      "niche": "Luxury Ayurvedic skincare & wellness",
+      "growthSignal": "200K+ Instagram, Estée Lauder stake, luxury heritage",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Al Fakher",
+      "website": "alfakher.com",
+      "email": "snorris@alfakher.com",
+      "firstName": "Shen",
+      "niche": "Premium shisha & lifestyle",
+      "growthSignal": "500K+ Instagram, lifestyle expansion into fragrance",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Beardo",
+      "website": "beardo.in",
+      "email": "swapnil.wagadre@beardo.in",
+      "firstName": "Swapnil",
+      "niche": "Premium men's grooming & beard care",
+      "growthSignal": "500K+ Instagram, Marico acquisition, leading men's DTC",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Egyptian Magic",
+      "website": "egyptianmagic.com",
+      "email": "tainara@egyptianmagic.com",
+      "firstName": "Tainara",
+      "niche": "All-purpose multi-use cream",
+      "growthSignal": "Cult product 50+ years, celebrity favorite, minimalist viral",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "mCaffeine",
+      "website": "mcaffeine.com",
+      "email": "tamana.chugh@mcaffeine.com",
+      "firstName": "Tamana",
+      "niche": "Caffeine-infused skincare & haircare",
+      "growthSignal": "350K+ Instagram, Shark Tank funded, unique caffeine positioning",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MyGlamm",
+      "website": "myglamm.com",
+      "email": "tanmay.goswami@myglamm.com",
+      "firstName": "Tanmay",
+      "niche": "Beauty & personal care",
+      "growthSignal": "126K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dot & Key",
+      "website": "dotandkey.com",
+      "email": "unnati@dotandkey.com",
+      "firstName": "Unnati",
+      "niche": "K-beauty inspired active skincare",
+      "growthSignal": "500K+ Instagram, viral Vitamin C range, Nykaa bestseller",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rasasi",
+      "website": "rasasi.com",
+      "email": "victoire@rasasi.com",
+      "firstName": "Victoire",
+      "niche": "Premium Arabian & French-inspired fragrances",
+      "growthSignal": "200K+ Instagram, Dubai-based, MENA market leader",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Minimalist",
+      "website": "beminimalist.co",
+      "email": "vividh.chaturvedi@beminimalist.co",
+      "firstName": "Vividh",
+      "niche": "Science-backed transparent dermatological skincare",
+      "growthSignal": "400K+ Instagram, rapid DTC growth, ingredient-led positioning",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Himalaya Wellness",
+      "website": "himalayawellness.in",
+      "email": "marketing@himalayawellness.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "113K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Patanjali Ayurved",
+      "website": "patanjaliayurved.net",
+      "email": "marketing@patanjaliayurved.net",
+      "firstName": "Team",
+      "niche": "Natural/Ayurvedic wellness & beauty",
+      "growthSignal": "91K+ Instagram, clean/natural positioning, heritage formulations",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Blossom Kochhar",
+      "website": "blossomkochhar.com",
+      "email": "info@blossomkochhar.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "55K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Iraya",
+      "website": "iraya.in",
+      "email": "hello@iraya.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "106K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Organic Harvest",
+      "website": "organicharvest.in",
+      "email": "info@organicharvest.in",
+      "firstName": "Team",
+      "niche": "Natural/Ayurvedic wellness & beauty",
+      "growthSignal": "118K+ Instagram, clean/natural positioning, heritage formulations",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Herbal Strategi",
+      "website": "herbalstrategi.com",
+      "email": "hello@herbalstrategi.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "123K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Blend It Raw",
+      "website": "blanditraw.com",
+      "email": "hello@blanditraw.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "148K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Votre",
+      "website": "votre.in",
+      "email": "hello@votre.in",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "136K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bare Anatomy",
+      "website": "bareanatomystore.com",
+      "email": "hello@bareanatomystore.com",
+      "firstName": "Team",
+      "niche": "Beauty & personal care",
+      "growthSignal": "55K+ followers, DTC e-commerce, growing brand awareness",
+      "variant": "B"
+    }
+  }
+]
