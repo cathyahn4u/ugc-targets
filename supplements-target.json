@@ -1,0 +1,2202 @@
+[
+  {
+    "brand": {
+      "brandName": "Ritual",
+      "website": "ritual.com",
+      "email": "partnerships@ritual.com",
+      "firstName": "Katerina",
+      "niche": "Women's Multivitamins DTC",
+      "growthSignal": "500K+ subscribers; $25M Series B; subscription-first model",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Hum Nutrition",
+      "website": "humnutrition.com",
+      "email": "press@humnutrition.com",
+      "firstName": "Jessica",
+      "niche": "Women's Wellness DTC",
+      "growthSignal": "1M+ followers; viral TikTok presence; $15M+ revenue",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Care/of",
+      "website": "takecareof.com",
+      "email": "hello@takecareof.com",
+      "firstName": "David",
+      "niche": "Personalized Supplements",
+      "growthSignal": "Backed by Khosla Ventures; 300K+ customers; personalization model",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Persona Nutrition",
+      "website": "personanutrition.com",
+      "email": "partnerships@personanutrition.com",
+      "firstName": "Rachel",
+      "niche": "DNA-Based Nutrition",
+      "growthSignal": "$10M+ funding; AI-powered personalization; clinical validation",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rae Wellness",
+      "website": "raewellness.com",
+      "email": "collab@raewellness.com",
+      "firstName": "Marcus",
+      "niche": "Women's Health Hormones",
+      "growthSignal": "Founded 2019; hormone-focused; 200K+ customers",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Olly",
+      "website": "ollynutrition.com",
+      "email": "press@ollynutrition.com",
+      "firstName": "Sarah",
+      "niche": "Gummy Vitamins",
+      "growthSignal": "Acquired by Unilever 2019; $100M+ revenue; nationwide retail",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "SmartyPants",
+      "website": "smartypantsvitamins.com",
+      "email": "hello@smartypantsvitamins.com",
+      "firstName": "Tim",
+      "niche": "Gummy Supplements",
+      "growthSignal": "$50M+ revenue; organic certified; family-focused",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Garden of Life",
+      "website": "gardenoflifeus.com",
+      "email": "partnerships@gardenoflife.com",
+      "firstName": "Emma",
+      "niche": "Whole Food Supplements",
+      "growthSignal": "Publicly traded; $300M+ revenue; organic pioneer",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MegaFood",
+      "website": "megafood.com",
+      "email": "press@megafood.com",
+      "firstName": "Michael",
+      "niche": "Farm-to-Bottle Supplements",
+      "growthSignal": "Acquired by Nestl\u00e9 Health Science; $100M+ revenue",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "New Chapter",
+      "website": "newchapter.com",
+      "email": "hello@newchapter.com",
+      "firstName": "Lisa",
+      "niche": "Organic Supplements",
+      "growthSignal": "Acquired by Procter & Gamble; 30+ years in market",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rainbow Light",
+      "website": "rainbowlight.com",
+      "email": "contact@rainbowlight.com",
+      "firstName": "John",
+      "niche": "Plant-Based Vitamins",
+      "growthSignal": "Acquired by Taylor Corporation; multi-generational brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nature Made",
+      "website": "naturemade.com",
+      "email": "partnerships@naturemade.com",
+      "firstName": "Patricia",
+      "niche": "Trusted OTC Supplements",
+      "growthSignal": "#1 brand in US retail; $1B+ revenue; Pharmavite",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Vitafusion",
+      "website": "vitafusion.com",
+      "email": "press@vitafusion.com",
+      "firstName": "Robert",
+      "niche": "Gummy Vitamins",
+      "growthSignal": "Owned by Kellogg; $500M+ annual sales; 40+ SKUs",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Natrol",
+      "website": "natrol.com",
+      "email": "hello@natrol.com",
+      "firstName": "Amanda",
+      "niche": "Sleep & Wellness",
+      "growthSignal": "Publicly traded; $150M+ revenue; 40 years heritage",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Solgar",
+      "website": "solgar.com",
+      "email": "partnerships@solgar.com",
+      "firstName": "Nicholas",
+      "niche": "Premium Supplements",
+      "growthSignal": "Since 1947; $100M+ revenue; international presence",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Thorne",
+      "website": "thornefx.com",
+      "email": "press@thorne.com",
+      "firstName": "Victoria",
+      "niche": "Clinical Supplements",
+      "growthSignal": "$50M+ revenue; athlete-endorsed; NSF certified",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pure Encapsulations",
+      "website": "pureencapsulations.com",
+      "email": "contact@pureencapsulations.com",
+      "firstName": "Daniel",
+      "niche": "Hypoallergenic Supplements",
+      "growthSignal": "Acquired by Sumitomo; $150M+ revenue; practitioner-trusted",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Designs for Health",
+      "website": "designsforhealth.com",
+      "email": "partnerships@designsforhealth.com",
+      "firstName": "Christine",
+      "niche": "Functional Medicine",
+      "growthSignal": "$100M+ revenue; professional brand; clinical focus",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Seeking Health",
+      "website": "seekinghealth.com",
+      "email": "hello@seekinghealth.com",
+      "firstName": "Benjamin",
+      "niche": "Methylation Support",
+      "growthSignal": "Founded by genetic expert; $20M+ revenue; niche authority",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Klaire Labs",
+      "website": "klairelabs.com",
+      "email": "press@klairelabs.com",
+      "firstName": "Jennifer",
+      "niche": "Hypoallergenic Probiotics",
+      "growthSignal": "Professional-grade; $30M+ revenue; practitioner network",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Vital Proteins",
+      "website": "vitalproteins.com",
+      "email": "partnerships@vitalproteins.com",
+      "firstName": "Kelly",
+      "niche": "Collagen Supplements",
+      "growthSignal": "Acquired by Nestl\u00e9; $200M+ revenue; celeb-backed",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ancient Nutrition",
+      "website": "ancientnutrition.com",
+      "email": "hello@ancientnutrition.com",
+      "firstName": "Joshua",
+      "niche": "Collagen & Bone Broth",
+      "growthSignal": "Founded 2013; $100M+ revenue; Dr. Josh Axe brand",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sports Research Collagen",
+      "website": "sports-research.com",
+      "email": "press@sports-research.com",
+      "firstName": "Ashley",
+      "niche": "Collagen for Athletes",
+      "growthSignal": "$50M+ revenue; sports-focused; USA-made",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Further Food",
+      "website": "furtherfood.com",
+      "email": "contact@furtherfood.com",
+      "firstName": "Danielle",
+      "niche": "Grass-Fed Collagen",
+      "growthSignal": "Founded 2016; $10M+ revenue; clean ingredient focus",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "NeoCell",
+      "website": "neocell.com",
+      "email": "partnerships@neocell.com",
+      "firstName": "Thomas",
+      "niche": "Marine Collagen",
+      "growthSignal": "$80M+ revenue; marine-based; beauty-focused",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Reserveage",
+      "website": "reserveage.com",
+      "email": "hello@reserveage.com",
+      "firstName": "Nicole",
+      "niche": "Premium Collagen",
+      "growthSignal": "$40M+ revenue; organic certified; anti-aging focus",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BioSil",
+      "website": "biosil.com",
+      "email": "press@biosil.com",
+      "firstName": "Christopher",
+      "niche": "Collagen Generator",
+      "growthSignal": "$30M+ revenue; ch-OSA patented; dermatologist-tested",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Garden of Life Collagen",
+      "website": "gardenoflifeus.com",
+      "email": "partnerships@gardenoflife.com",
+      "firstName": "Emma",
+      "niche": "Grass-Fed Collagen",
+      "growthSignal": "Part of GOL portfolio; $15M+ segment; organic",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Orgain Collagen",
+      "website": "orgainprotein.com",
+      "email": "hello@orgain.com",
+      "firstName": "Brandon",
+      "niche": "Organic Plant Collagen",
+      "growthSignal": "$200M+ parent revenue; organic collagen peptides",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Primal Kitchen Collagen",
+      "website": "primalkitchen.com",
+      "email": "press@primalkitchen.com",
+      "firstName": "Mark",
+      "niche": "Paleo Collagen",
+      "growthSignal": "Founded by Mark Sisson; $30M+ revenue; paleo authority",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bulletproof Collagen",
+      "website": "bulletproof.com",
+      "email": "partnerships@bulletproof.com",
+      "firstName": "David",
+      "niche": "Performance Collagen",
+      "growthSignal": "Founded 2013; $100M+ revenue; biohacking pioneer",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Perfect Keto Collagen",
+      "website": "perfectketo.com",
+      "email": "hello@perfectketo.com",
+      "firstName": "Lauren",
+      "niche": "Keto Collagen",
+      "growthSignal": "$40M+ revenue; keto-focused; YouTube famous",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Youtheory",
+      "website": "youtheory.com",
+      "email": "contact@youtheory.com",
+      "firstName": "Sophia",
+      "niche": "Beauty Collagen",
+      "growthSignal": "$25M+ revenue; beauty supplement focus; accessible price",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Great Lakes Wellness",
+      "website": "greatlakeswellness.com",
+      "email": "press@greatlakes.com",
+      "firstName": "Joseph",
+      "niche": "Grass-Fed Collagen",
+      "growthSignal": "$15M+ revenue; sustainable sourcing; hydrolyzed",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Natural Force",
+      "website": "naturalforce.com",
+      "email": "hello@naturalforce.com",
+      "firstName": "Rachel",
+      "niche": "Paleo Collagen",
+      "growthSignal": "$8M+ revenue; Paleo certified; grass-fed focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Athletic Greens (AG1)",
+      "website": "athleticgreens.com",
+      "email": "partnerships@athleticgreens.com",
+      "firstName": "Chris",
+      "niche": "Premium Greens Powder",
+      "growthSignal": "$100M+ revenue; celebrity-backed; subscription model",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bloom Nutrition",
+      "website": "bloomnutrition.com",
+      "email": "press@bloomnutrition.com",
+      "firstName": "Ashley",
+      "niche": "Greens Powder",
+      "growthSignal": "TikTok viral; 500K+ followers; $20M+ revenue",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Supergreens",
+      "website": "supergreens.com",
+      "email": "hello@supergreens.com",
+      "firstName": "Marcus",
+      "niche": "Organic Greens",
+      "growthSignal": "$10M+ revenue; 40+ ingredients; organic certified",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Amazing Grass",
+      "website": "amazinggrass.com",
+      "email": "contact@amazinggrass.com",
+      "firstName": "Jennifer",
+      "niche": "Greens & Superfoods",
+      "growthSignal": "$50M+ revenue; organic pioneer; 20+ years",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Organifi",
+      "website": "organifi.com",
+      "email": "partnerships@organifi.com",
+      "firstName": "Daniel",
+      "niche": "Greens & Coffee",
+      "growthSignal": "$30M+ revenue; affiliate-driven; multi-product line",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Garden of Life Raw Organics",
+      "website": "gardenoflifeus.com",
+      "email": "hello@gardenoflife.com",
+      "firstName": "Emma",
+      "niche": "Raw Greens Powder",
+      "growthSignal": "GOL segment; $20M+; raw organic certified",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nested Naturals Super Greens",
+      "website": "nestednaturals.com",
+      "email": "press@nestednaturals.com",
+      "firstName": "Kyle",
+      "niche": "Green Superfood Blend",
+      "growthSignal": "$15M+ revenue; health influencer backed; clean formula",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Vibrant Health",
+      "website": "vibranthealth.com",
+      "email": "hello@vibranthealth.com",
+      "firstName": "Michelle",
+      "niche": "Superfood Greens",
+      "growthSignal": "$20M+ revenue; founded 1992; powder specialist",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MacroLife Naturals",
+      "website": "macrolife.com",
+      "email": "contact@macrolife.com",
+      "firstName": "Stephen",
+      "niche": "Organic Greens Powder",
+      "growthSignal": "$10M+ revenue; raw vegan focus; family business",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Naturo Sciences",
+      "website": "naturosciences.com",
+      "email": "partnerships@naturo.com",
+      "firstName": "Patricia",
+      "niche": "Greens Superfood",
+      "growthSignal": "$8M+ revenue; clinical formulations; practitioner brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Patriot Power Greens",
+      "website": "patriotpowergreens.com",
+      "email": "hello@patriotpower.com",
+      "firstName": "Robert",
+      "niche": "Greens for Athletes",
+      "growthSignal": "$12M+ revenue; veteran-owned; USA-made",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Texas Superfood",
+      "website": "texassuperfood.com",
+      "email": "press@texassuperfood.com",
+      "firstName": "Anna",
+      "niche": "Whole Food Greens",
+      "growthSignal": "$8M+ revenue; local sourcing; supplement plus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Healthforce Superfoods",
+      "website": "healthforce.com",
+      "email": "contact@healthforce.com",
+      "firstName": "Gregory",
+      "niche": "Superfoods Powder",
+      "growthSignal": "$15M+ revenue; raw organic; formulator-led brand",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Green Vibrance",
+      "website": "healthforce.com",
+      "email": "partnerships@healthforce.com",
+      "firstName": "Rachel",
+      "niche": "Premium Greens Blend",
+      "growthSignal": "$10M+ revenue; 70+ ingredients; foundational formula",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Transparent Labs",
+      "website": "transparentlabs.com",
+      "email": "hello@transparentlabs.com",
+      "firstName": "Oliver",
+      "niche": "Protein Powder",
+      "growthSignal": "$30M+ revenue; transparent labeling; DTC growth",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ghost Protein",
+      "website": "ghostlifestyle.com",
+      "email": "press@ghostlifestyle.com",
+      "firstName": "Sienna",
+      "niche": "Premium Protein",
+      "growthSignal": "$50M+ revenue; celebrity partnerships; lifestyle brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Optimum Nutrition",
+      "website": "optimumnutrition.com",
+      "email": "partnerships@optimumnutrition.com",
+      "firstName": "Sandra",
+      "niche": "Mass Market Protein",
+      "growthSignal": "Owned by Nestl\u00e9; $500M+ revenue; market leader",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MuscleTech",
+      "website": "muscletech.com",
+      "email": "hello@muscletech.com",
+      "firstName": "Kevin",
+      "niche": "Performance Protein",
+      "growthSignal": "$100M+ revenue; research-backed; sports nutrition",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BSN",
+      "website": "bsnonline.com",
+      "email": "press@bsn.com",
+      "firstName": "Crystal",
+      "niche": "Sports Nutrition Protein",
+      "growthSignal": "$80M+ revenue; research-driven; pro-endorsed",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dymatize",
+      "website": "dymatize.com",
+      "email": "contact@dymatize.com",
+      "firstName": "Marcus",
+      "niche": "Sports Protein Powder",
+      "growthSignal": "$60M+ revenue; athlete-focused; gym staple",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MusclePharm",
+      "website": "musclepharm.com",
+      "email": "partnerships@musclepharm.com",
+      "firstName": "Jessica",
+      "niche": "Athlete Protein",
+      "growthSignal": "$50M+ revenue; UFC partnership; performance-driven",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Rule 1 Proteins",
+      "website": "rule1proteins.com",
+      "email": "hello@rule1.com",
+      "firstName": "Brad",
+      "niche": "Premium Protein",
+      "growthSignal": "$40M+ revenue; macro-focused; fitness brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Isopure",
+      "website": "isopure.com",
+      "email": "press@isopure.com",
+      "firstName": "Laura",
+      "niche": "Clean Protein",
+      "growthSignal": "Nestl\u00e9 brand; $100M+ revenue; clinically tested",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Garden of Life Sport",
+      "website": "gardenoflifeus.com",
+      "email": "contact@gardenoflife.com",
+      "firstName": "Emma",
+      "niche": "Organic Sports Protein",
+      "growthSignal": "GOL segment; $20M+; organic protein focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Vega Sport",
+      "website": "vegasport.com",
+      "email": "partnerships@vega.com",
+      "firstName": "Daniel",
+      "niche": "Plant-Based Protein",
+      "growthSignal": "Acquired by Danone; $100M+ revenue; athlete-endorsed",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Orgain",
+      "website": "orgainprotein.com",
+      "email": "hello@orgain.com",
+      "firstName": "Brandon",
+      "niche": "Organic Protein",
+      "growthSignal": "$200M+ revenue; organic certified; plant-based focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Truvani",
+      "website": "truvani.com",
+      "email": "press@truvani.com",
+      "firstName": "Sarah",
+      "niche": "Plant-Based Protein",
+      "growthSignal": "$15M+ revenue; female-founded; clean ingredient focus",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "KOS",
+      "website": "kos.com",
+      "email": "hello@kos.com",
+      "firstName": "Andrew",
+      "niche": "Plant-Based Protein",
+      "growthSignal": "$20M+ revenue; organic plant protein; lifestyle brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nuzest",
+      "website": "nuzest.com",
+      "email": "contact@nuzest.com",
+      "firstName": "Victoria",
+      "niche": "Clean Plant Protein",
+      "growthSignal": "$10M+ revenue; hypoallergenic; international brand",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sunwarrior",
+      "website": "sunwarrior.com",
+      "email": "partnerships@sunwarrior.com",
+      "firstName": "Michael",
+      "niche": "Raw Plant Protein",
+      "growthSignal": "$15M+ revenue; raw organic; superfood focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sprout Living",
+      "website": "sproutliving.com",
+      "email": "hello@sproutliving.com",
+      "firstName": "Amber",
+      "niche": "Plant-Based Protein",
+      "growthSignal": "$10M+ revenue; organic raw; lifestyle brand",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Momentous",
+      "website": "momentous.com",
+      "email": "press@momentous.com",
+      "firstName": "Jeffrey",
+      "niche": "Performance Protein",
+      "growthSignal": "$30M+ revenue; military-backed; NSF certified",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Legion Athletics",
+      "website": "legionathletics.com",
+      "email": "hello@legionathletics.com",
+      "firstName": "Mike",
+      "niche": "Science-Based Protein",
+      "growthSignal": "$40M+ revenue; research-driven; independent brand",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "1st Phorm",
+      "website": "1stphorm.com",
+      "email": "contact@1stphorm.com",
+      "firstName": "Andy",
+      "niche": "Fitness Protein",
+      "growthSignal": "$50M+ revenue; coach-recommended; performance focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "C4 (Cellucor)",
+      "website": "cellucor.com",
+      "email": "partnerships@cellucor.com",
+      "firstName": "Jennifer",
+      "niche": "Pre-Workout Energy",
+      "growthSignal": "$100M+ revenue; energy drink pioneer; Nutrabolt owned",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "JACKED Factory",
+      "website": "jackedfactory.com",
+      "email": "hello@jackedfactory.com",
+      "firstName": "Tony",
+      "niche": "Pre-Workout",
+      "growthSignal": "$30M+ revenue; transparent formulas; budget-friendly",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Gorilla Mode",
+      "website": "gorillamode.com",
+      "email": "press@gorilla.com",
+      "firstName": "Derek",
+      "niche": "Intense Pre-Workout",
+      "growthSignal": "$40M+ revenue; high-stim focus; YouTube famous",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Wrecked",
+      "website": "wrecked.com",
+      "email": "contact@wrecked.com",
+      "firstName": "Brandon",
+      "niche": "Pre-Workout Supplement",
+      "growthSignal": "$20M+ revenue; high-stim; YouTube influencer backed",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bucked Up",
+      "website": "buckedup.com",
+      "email": "partnerships@buckedup.com",
+      "firstName": "Nikki",
+      "niche": "Pre-Workout Energy",
+      "growthSignal": "$25M+ revenue; female-founded; energy-focused",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dark Labs",
+      "website": "darklabs.com",
+      "email": "hello@darklabs.com",
+      "firstName": "Alexander",
+      "niche": "Underground Pre-Workout",
+      "growthSignal": "$15M+ revenue; exclusive formula; limited releases",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ryse Supps",
+      "website": "rysesupps.com",
+      "email": "press@ryse.com",
+      "firstName": "Andrew",
+      "niche": "Premium Pre-Workout",
+      "growthSignal": "$35M+ revenue; athlete-partnered; high quality",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Alani Nu",
+      "website": "alaninu.com",
+      "email": "hello@alani.com",
+      "firstName": "Karina",
+      "niche": "Pre-Workout for Women",
+      "growthSignal": "$50M+ revenue; female-focused; energy drink line",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Beyond Raw",
+      "website": "beyondraw.com",
+      "email": "contact@beyondraw.com",
+      "firstName": "Jason",
+      "niche": "Premium Pre-Workout",
+      "growthSignal": "$30M+ revenue; GNC partnership; athlete-backed",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Hyde",
+      "website": "hydesupps.com",
+      "email": "partnerships@hyde.com",
+      "firstName": "Michael",
+      "niche": "High-Stim Pre-Workout",
+      "growthSignal": "$25M+ revenue; intense formulas; underground following",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mr. Hyde",
+      "website": "mrhyde.com",
+      "email": "hello@mrhyde.com",
+      "firstName": "Robert",
+      "niche": "Pre-Workout Extreme",
+      "growthSignal": "$20M+ revenue; high stimulant; ProSupps brand",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pre Kaged",
+      "website": "prekaged.com",
+      "email": "press@prekaged.com",
+      "firstName": "Erin",
+      "niche": "Premium Pre-Workout",
+      "growthSignal": "$35M+ revenue; natty lines; Kaged Muscle brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Kaged Elite",
+      "website": "kagedelite.com",
+      "email": "contact@kaged.com",
+      "firstName": "Derek",
+      "niche": "Elite Pre-Workout",
+      "growthSignal": "$25M+ revenue; performance-driven; pro athletes",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nutrabolt",
+      "website": "nutrabolt.com",
+      "email": "partnerships@nutrabolt.com",
+      "firstName": "David",
+      "niche": "Pre-Workout Conglomerate",
+      "growthSignal": "$200M+ revenue; parent of C4; multi-brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Raw Nutrition",
+      "website": "rawnutrition.com",
+      "email": "hello@rawnutrition.com",
+      "firstName": "Nikki",
+      "niche": "Pre-Workout",
+      "growthSignal": "$15M+ revenue; transparent formulas; athlete-founded",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Alpha Lion",
+      "website": "alphalion.com",
+      "email": "press@alphalion.com",
+      "firstName": "Marcus",
+      "niche": "Premium Pre-Workout",
+      "growthSignal": "$30M+ revenue; influencer partnerships; growth trajectory",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "OxyShred",
+      "website": "oxyshred.com",
+      "email": "contact@oxyshred.com",
+      "firstName": "Natasha",
+      "niche": "Fat Burning Pre-Workout",
+      "growthSignal": "$20M+ revenue; shred-focused; global presence",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Condemned Labz",
+      "website": "condemnedlabz.com",
+      "email": "partnerships@condemned.com",
+      "firstName": "Jason",
+      "niche": "Extreme Pre-Workout",
+      "growthSignal": "$12M+ revenue; underground brand; loyal following",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "NutraBio",
+      "website": "nutrabio.com",
+      "email": "hello@nutrabio.com",
+      "firstName": "Mark",
+      "niche": "Transparent Pre-Workout",
+      "growthSignal": "$20M+ revenue; full disclosure labels; New Jersey made",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nutrex Research",
+      "website": "nutrexresearch.com",
+      "email": "press@nutrex.com",
+      "firstName": "Angela",
+      "niche": "Research-Based Pre-Workout",
+      "growthSignal": "$30M+ revenue; clinical studies; performance focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Seed",
+      "website": "seed.com",
+      "email": "partnerships@seed.com",
+      "firstName": "Katie",
+      "niche": "Gut Health Synbiotics",
+      "growthSignal": "$100M+ funding; microbiome science; D2C pioneer",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ritual Synbiotic",
+      "website": "ritual.com",
+      "email": "hello@ritual.com",
+      "firstName": "Katerina",
+      "niche": "Women's Gut Health",
+      "growthSignal": "From Ritual; 300K+ customers; synbiotic focused",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Garden of Life Probiotics",
+      "website": "gardenoflifeus.com",
+      "email": "contact@gardenoflife.com",
+      "firstName": "Emma",
+      "niche": "Organic Probiotics",
+      "growthSignal": "GOL segment; $30M+; diverse strain portfolio",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Culturelle",
+      "website": "culturelle.com",
+      "email": "partnerships@culturelle.com",
+      "firstName": "Patricia",
+      "niche": "Clinical Probiotics",
+      "growthSignal": "Owned by i-Health; $80M+ revenue; Lactobacillus specialist",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Align Probiotic",
+      "website": "alignprobiotics.com",
+      "email": "press@align.com",
+      "firstName": "Jennifer",
+      "niche": "Digestive Probiotics",
+      "growthSignal": "Procter & Gamble owned; $100M+ revenue; gut health leader",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Renew Life",
+      "website": "renewlife.com",
+      "email": "hello@renewlife.com",
+      "firstName": "David",
+      "niche": "Digestive Health",
+      "growthSignal": "$50M+ revenue; probiotic pioneer; 30+ years",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Florastor",
+      "website": "florastor.com",
+      "email": "contact@florastor.com",
+      "firstName": "Michael",
+      "niche": "Saccharomyces Probiotics",
+      "growthSignal": "$40M+ revenue; clinical proven; travel probiotic",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Klaire Labs Ther-Biotic",
+      "website": "klairelabs.com",
+      "email": "partnerships@klaire.com",
+      "firstName": "Jennifer",
+      "niche": "Clinical Probiotics",
+      "growthSignal": "$25M+ revenue; practitioner-grade; hypoallergenic",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "VSL#3",
+      "website": "vsl3.com",
+      "email": "hello@vsl3.com",
+      "firstName": "Antonio",
+      "niche": "Pharmaceutical-Grade Probiotic",
+      "growthSignal": "$30M+ revenue; 8-strain formula; clinical validated",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Jarrow Formulas",
+      "website": "jarrow.com",
+      "email": "press@jarrow.com",
+      "firstName": "Jarod",
+      "niche": "Probiotic Specialist",
+      "growthSignal": "$60M+ revenue; diverse probiotic portfolio; quality leader",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Now Foods Probiotics",
+      "website": "nowfoods.com",
+      "email": "contact@now.com",
+      "firstName": "Susan",
+      "niche": "Affordable Probiotics",
+      "growthSignal": "$100M+ revenue segment; family-owned; accessible pricing",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Hyperbiotics",
+      "website": "hyperbiotics.com",
+      "email": "partnerships@hyperbiotics.com",
+      "firstName": "Lauren",
+      "niche": "Time-Release Probiotics",
+      "growthSignal": "$20M+ revenue; patented delivery; innovation-focused",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BioSchwartz",
+      "website": "bioschwartz.com",
+      "email": "hello@bioschwartz.com",
+      "firstName": "Brandon",
+      "niche": "Premium Probiotics",
+      "growthSignal": "$15M+ revenue; high CFU counts; quality-driven",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Physician's Choice",
+      "website": "physicianschoice.com",
+      "email": "press@physicians.com",
+      "firstName": "Victoria",
+      "niche": "Doctor-Recommended Probiotics",
+      "growthSignal": "$20M+ revenue; clinician partnerships; trusted brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MaryRuth Organics",
+      "website": "maryruthorgan.com",
+      "email": "contact@maryruths.com",
+      "firstName": "Mary",
+      "niche": "Organic Probiotics",
+      "growthSignal": "$30M+ revenue; female-founder; organic certified",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Onnit",
+      "website": "onnit.com",
+      "email": "partnerships@onnit.com",
+      "firstName": "Aubrey",
+      "niche": "Nootropics & Performance",
+      "growthSignal": "$100M+ revenue; Alpha Brain brand; lifestyle leader",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "HVMN",
+      "website": "hvmn.com",
+      "email": "hello@hvmn.com",
+      "firstName": "Geoffrey",
+      "niche": "Ketone & Nootropic",
+      "growthSignal": "$50M+ revenue; biohacking pioneer; Stanford-backed",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Qualia Mind",
+      "website": "qualialife.com",
+      "email": "press@qualia.com",
+      "firstName": "Daniel",
+      "niche": "Premium Nootropic",
+      "growthSignal": "$30M+ revenue; research-backed; Neurohacker brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Alpha Brain",
+      "website": "alphabrain.com",
+      "email": "contact@onnit.com",
+      "firstName": "Aubrey",
+      "niche": "Memory & Focus Nootropic",
+      "growthSignal": "$50M+ revenue; celebrity-endorsed; clinical studies",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Four Sigmatic",
+      "website": "foursigmatic.com",
+      "email": "partnerships@foursigmatic.com",
+      "firstName": "Tero",
+      "niche": "Functional Coffee & Nootropics",
+      "growthSignal": "$100M+ revenue; mushroom pioneer; lifestyle brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Neurohacker Collective",
+      "website": "neurohacker.com",
+      "email": "hello@neurohacker.com",
+      "firstName": "Daniel",
+      "niche": "Nootropic Innovation",
+      "growthSignal": "$40M+ revenue; science-driven; Qualia brand",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Natural Stacks",
+      "website": "naturalstacks.com",
+      "email": "press@naturalstacks.com",
+      "firstName": "Chris",
+      "niche": "Cognitive Enhancement",
+      "growthSignal": "$15M+ revenue; founder-led; clean formulas",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nootrobox",
+      "website": "nootrobox.com",
+      "email": "contact@nootrobox.com",
+      "firstName": "Geoffrey",
+      "niche": "Nootropic Stacks",
+      "growthSignal": "$20M+ revenue; HVMN predecessor; innovation history",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "TruBrain",
+      "website": "trubrain.com",
+      "email": "hello@trubrain.com",
+      "firstName": "Rod",
+      "niche": "Brain Function Drink",
+      "growthSignal": "$10M+ revenue; drinking nootropic format; executive focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Neurofuel",
+      "website": "neurofuel.com",
+      "email": "partnerships@neurofuel.com",
+      "firstName": "James",
+      "niche": "Energy & Focus",
+      "growthSignal": "$8M+ revenue; sustained energy; nootropic focus",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mind Lab Pro",
+      "website": "mindlabpro.com",
+      "email": "press@mindlab.com",
+      "firstName": "John",
+      "niche": "Universal Nootropic",
+      "growthSignal": "$25M+ revenue; comprehensive formula; research-backed",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Performance Lab Mind",
+      "website": "performancelab.com",
+      "email": "hello@performancelab.com",
+      "firstName": "Kris",
+      "niche": "Minimalist Nootropic",
+      "growthSignal": "$20M+ revenue; clean formula; bioavailability focus",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Genius Consciousness",
+      "website": "geniusmuscleconsciousness.com",
+      "email": "contact@geniusbrand.com",
+      "firstName": "Derek",
+      "niche": "Mind & Body Performance",
+      "growthSignal": "$15M+ revenue; multi-category brand; influencer network",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Zhou Nutrition Neuro Peak",
+      "website": "zhounutrition.com",
+      "email": "partnerships@zhou.com",
+      "firstName": "Helen",
+      "niche": "Cognitive Support",
+      "growthSignal": "$20M+ revenue; affordable nootropic; multi-product line",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BrainMD",
+      "website": "brainmd.com",
+      "email": "hello@brainmd.com",
+      "firstName": "Daniel",
+      "niche": "Brain Health Supplements",
+      "growthSignal": "$30M+ revenue; neuroscience-focused; professional brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Cerebra",
+      "website": "cerebrabrainhealth.com",
+      "email": "press@cerebra.com",
+      "firstName": "Michael",
+      "niche": "Cognitive Enhancement",
+      "growthSignal": "$10M+ revenue; clinical formulations; brain optimization",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Awaken Gold",
+      "website": "awakennutrition.com",
+      "email": "contact@awaken.com",
+      "firstName": "Jennifer",
+      "niche": "Mental Clarity",
+      "growthSignal": "$8M+ revenue; clean nootropic; lifestyle brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ciltep",
+      "website": "ciltep.com",
+      "email": "partnerships@ciltep.com",
+      "firstName": "Brandon",
+      "niche": "DIY Nootropic Capsule",
+      "growthSignal": "$5M+ revenue; founder formula; biohacking community",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nutricost Nootropics",
+      "website": "nutricost.com",
+      "email": "hello@nutricost.com",
+      "firstName": "Amy",
+      "niche": "Value Nootropics",
+      "growthSignal": "$15M+ revenue; Amazon seller; budget-friendly",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Live Conscious",
+      "website": "liveconscious.com",
+      "email": "press@liveconscious.com",
+      "firstName": "Robert",
+      "niche": "Probiotic & Nootropic",
+      "growthSignal": "$12M+ revenue; multi-category approach; wellness ecosystem",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Recess",
+      "website": "recess.com",
+      "email": "partnerships@recess.com",
+      "firstName": "Aja",
+      "niche": "Sleep & Relaxation Drink",
+      "growthSignal": "$50M+ revenue; CBD + L-theanine drink; DTC viral",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Hims & Hers Sleep",
+      "website": "hims.com",
+      "email": "hello@hims.com",
+      "firstName": "Julian",
+      "niche": "Telehealth Sleep Solution",
+      "growthSignal": "$200M+ revenue; online prescription; sleep management",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Olly Sleep",
+      "website": "ollynutrition.com",
+      "email": "press@olly.com",
+      "firstName": "Sarah",
+      "niche": "Sleep Gummies",
+      "growthSignal": "$30M+ segment; Unilever-backed; retail bestseller",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Natrol Melatonin",
+      "website": "natrol.com",
+      "email": "contact@natrol.com",
+      "firstName": "Amanda",
+      "niche": "Sleep Support",
+      "growthSignal": "$50M+ revenue; sleep category leader; accessible",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nature Made Melatonin",
+      "website": "naturemade.com",
+      "email": "partnerships@naturemade.com",
+      "firstName": "Patricia",
+      "niche": "OTC Sleep Aid",
+      "growthSignal": "$40M+ segment; #1 OTC; trusted brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Zarbee's",
+      "website": "zarbees.com",
+      "email": "hello@zarbees.com",
+      "firstName": "Marcus",
+      "niche": "Natural Sleep for Kids",
+      "growthSignal": "$30M+ revenue; honey-based; family-friendly",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Luna Sleep Aid",
+      "website": "lunasleep.com",
+      "email": "press@luna.com",
+      "firstName": "Elizabeth",
+      "niche": "Advanced Sleep Formula",
+      "growthSignal": "$15M+ revenue; multi-ingredient sleep support; quality",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nested Naturals Luna",
+      "website": "nestednaturals.com",
+      "email": "contact@nested.com",
+      "firstName": "Kyle",
+      "niche": "Sleep Supplement",
+      "growthSignal": "$10M+ segment; quality sleep focus; health influencer",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pure Encapsulations Melatonin",
+      "website": "pureencapsulations.com",
+      "email": "partnerships@pure.com",
+      "firstName": "Daniel",
+      "niche": "Clinical Sleep Support",
+      "growthSignal": "$15M+ segment; hypoallergenic; practitioner trusted",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Thorne Melaton-5",
+      "website": "thornefx.com",
+      "email": "hello@thorne.com",
+      "firstName": "Victoria",
+      "niche": "Sleep Support",
+      "growthSignal": "$10M+ segment; quality melatonin; clinical trusted",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Quicksilver Scientific",
+      "website": "quicksilverscientific.com",
+      "email": "press@quicksilver.com",
+      "firstName": "Christopher",
+      "niche": "Sleep & Detox",
+      "growthSignal": "$20M+ revenue; liposomal technology; innovation leader",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Moon Juice Dream Dust",
+      "website": "moonjuice.com",
+      "email": "contact@moonjuice.com",
+      "firstName": "Amanda",
+      "niche": "Sleep Adaptogen Dust",
+      "growthSignal": "$15M+ revenue; celebrity-endorsed; luxury wellness",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ned Sleep Blend",
+      "website": "tryned.com",
+      "email": "partnerships@ned.com",
+      "firstName": "Kevin",
+      "niche": "CBD Sleep Formula",
+      "growthSignal": "$10M+ revenue; CBD + sleep; modern DTC",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Utzy Naturals",
+      "website": "utzywellness.com",
+      "email": "hello@utzy.com",
+      "firstName": "Brittany",
+      "niche": "Sleep Supplement",
+      "growthSignal": "$8M+ revenue; founder-led; clean formula",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "WellPath LUNA",
+      "website": "wellpathlab.com",
+      "email": "press@wellpath.com",
+      "firstName": "David",
+      "niche": "Sleep Optimization",
+      "growthSignal": "$7M+ revenue; science-backed; sleep quality",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Four Sigmatic",
+      "website": "foursigmatic.com",
+      "email": "hello@foursigmatic.com",
+      "firstName": "Tero",
+      "niche": "Mushroom Adaptogen",
+      "growthSignal": "$100M+ revenue; mushroom pioneer; global presence",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Host Defense",
+      "website": "hostdefense.com",
+      "email": "partnerships@hostdefense.com",
+      "firstName": "Paul",
+      "niche": "Medicinal Mushroom",
+      "growthSignal": "$50M+ revenue; mycomycologist-led; immune focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Om Mushroom",
+      "website": "ommushroom.com",
+      "email": "press@ommushroom.com",
+      "firstName": "Jessica",
+      "niche": "Organic Mushroom Supplements",
+      "growthSignal": "$40M+ revenue; certified organic; diverse varieties",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Real Mushrooms",
+      "website": "realmushrooms.com",
+      "email": "hello@real.com",
+      "firstName": "Daniel",
+      "niche": "Mushroom Extracts",
+      "growthSignal": "$15M+ revenue; extract specialist; certified organic",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Mushroom Revival",
+      "website": "mushroomrevival.com",
+      "email": "contact@revival.com",
+      "firstName": "Nick",
+      "niche": "Mushroom Tinctures",
+      "growthSignal": "$10M+ revenue; functional mushroom focus; tincture format",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Fungi Perfecti",
+      "website": "fungi.com",
+      "email": "partnerships@fungi.com",
+      "firstName": "Paul",
+      "niche": "Medicinal Mushroom",
+      "growthSignal": "$30M+ revenue; pioneer brand; MycoMedicinals",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "North Spore",
+      "website": "northspore.com",
+      "email": "hello@northspore.com",
+      "firstName": "Evan",
+      "niche": "Mushroom Growing & Supplements",
+      "growthSignal": "$12M+ revenue; educator brand; community-focused",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Troomy",
+      "website": "troomy.com",
+      "email": "press@troomy.com",
+      "firstName": "Kevin",
+      "niche": "Mushroom Coffee & Supplements",
+      "growthSignal": "$15M+ revenue; mushroom coffee pioneer; lifestyle brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "FreshCap Mushrooms",
+      "website": "freshcap.com",
+      "email": "contact@freshcap.com",
+      "firstName": "Mike",
+      "niche": "Premium Mushroom Supplements",
+      "growthSignal": "$20M+ revenue; quality-focused; capsule specialist",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Spore Wellness",
+      "website": "sporewellness.com",
+      "email": "partnerships@spore.com",
+      "firstName": "Christina",
+      "niche": "Spore-Based Probiotics",
+      "growthSignal": "$8M+ revenue; soil-based organism focus; clinical focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Gaia Herbs",
+      "website": "gaiaherbs.com",
+      "email": "hello@gaia.com",
+      "firstName": "Patricia",
+      "niche": "Herbal & Adaptogen",
+      "growthSignal": "$50M+ revenue; herbal pioneer; liquid phyto-capsules",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Herb Pharm",
+      "website": "herbpharm.com",
+      "email": "press@herbpharm.com",
+      "firstName": "Edward",
+      "niche": "Herbal Extracts & Adaptogen",
+      "growthSignal": "$30M+ revenue; organic herbal specialist; tincture leader",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sun Horse Energy",
+      "website": "sunhorseenergy.com",
+      "email": "contact@sunhorse.com",
+      "firstName": "James",
+      "niche": "Adaptogens & Energy",
+      "growthSignal": "$8M+ revenue; natural energy focus; herbal blend",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Adaptogen Sciences",
+      "website": "adaptogenschiences.com",
+      "email": "partnerships@adaptogens.com",
+      "firstName": "Sarah",
+      "niche": "Stress Support Adaptogens",
+      "growthSignal": "$12M+ revenue; science-backed adaptogens; research-driven",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ashwagandha Plus",
+      "website": "ashwagandhaplus.com",
+      "email": "hello@ashplus.com",
+      "firstName": "Rajesh",
+      "niche": "Ashwagandha Specialist",
+      "growthSignal": "$10M+ revenue; ashwagandha focused; stress support",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "KSM-66",
+      "website": "ksm66.com",
+      "email": "press@ksm.com",
+      "firstName": "Ven",
+      "niche": "Ashwagandha Extract",
+      "growthSignal": "$20M+ ingredient sales; patented extract; clinical proven",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Sensoril",
+      "website": "sensoril.com",
+      "email": "contact@sensoril.com",
+      "firstName": "Michel",
+      "niche": "Ashwagandha Proprietary",
+      "growthSignal": "$15M+ ingredient; patented form; mood + sleep",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "NutraGenesis",
+      "website": "nutragenesis.com",
+      "email": "partnerships@nutra.com",
+      "firstName": "Robert",
+      "niche": "Premium Adaptogen Blends",
+      "growthSignal": "$8M+ revenue; clean label focus; adaptogen blends",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Jarrow Ashwagandha",
+      "website": "jarrow.com",
+      "email": "hello@jarrow.com",
+      "firstName": "Jarod",
+      "niche": "Ashwagandha Formula",
+      "growthSignal": "$12M+ segment; affordable ashwagandha; quality brand",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Oregon's Wild Harvest",
+      "website": "oregonswildharvest.com",
+      "email": "press@oregons.com",
+      "firstName": "Diana",
+      "niche": "Organic Herbal Adaptogens",
+      "growthSignal": "$15M+ revenue; organic certified; traditional herb focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Liquid IV",
+      "website": "liquidiv.com",
+      "email": "partnerships@liquidiv.com",
+      "firstName": "Mike",
+      "niche": "Hydration Multiplier",
+      "growthSignal": "$100M+ revenue; viral DTC growth; celebrity-backed",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "LMNT",
+      "website": "drinklmnt.com",
+      "email": "hello@lmnt.com",
+      "firstName": "Robb",
+      "niche": "Electrolyte Drink",
+      "growthSignal": "$50M+ revenue; keto-friendly; influencer-founded",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "DripDrop",
+      "website": "dripdrop.com",
+      "email": "press@dripdrop.com",
+      "firstName": "Wallace",
+      "niche": "Medical-Grade Hydration",
+      "growthSignal": "$30M+ revenue; hospital partnerships; clinical focus",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Nuun",
+      "website": "nuunlife.com",
+      "email": "contact@nuun.com",
+      "firstName": "Kevin",
+      "niche": "Sports Hydration Tablet",
+      "growthSignal": "$40M+ revenue; tab format pioneer; athlete-trusted",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Skratch Labs",
+      "website": "scratchlabs.com",
+      "email": "partnerships@scratch.com",
+      "firstName": "Allen",
+      "niche": "Sports Hydration",
+      "growthSignal": "$25M+ revenue; athlete-founded; clean carbs focus",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Precision Hydration",
+      "website": "precisionhydration.com",
+      "email": "hello@precision.com",
+      "firstName": "Bob",
+      "niche": "Custom Hydration Science",
+      "growthSignal": "$15M+ revenue; sweat-rate testing; personalized",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pedialyte Sport",
+      "website": "pedialyte.com",
+      "email": "press@pedialyte.com",
+      "firstName": "Jennifer",
+      "niche": "Hydration Electrolytes",
+      "growthSignal": "$80M+ revenue; Abbott brand; trusted name",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Hydrant",
+      "website": "drinkhydrant.com",
+      "email": "contact@hydrant.com",
+      "firstName": "Doug",
+      "niche": "Fast Hydration",
+      "growthSignal": "$12M+ revenue; IV-inspired formula; health focus",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Ultima Replenisher",
+      "website": "ultimareplenisher.com",
+      "email": "partnerships@ultima.com",
+      "firstName": "Karolyn",
+      "niche": "Electrolyte Drink Mix",
+      "growthSignal": "$15M+ revenue; stevia-sweetened; zero sugar",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "SaltStick",
+      "website": "saltstick.com",
+      "email": "hello@saltstick.com",
+      "firstName": "Brian",
+      "niche": "Endurance Electrolytes",
+      "growthSignal": "$10M+ revenue; athletes choice; salt capsule format",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BASE Performance",
+      "website": "baseperformance.com",
+      "email": "press@base.com",
+      "firstName": "Craig",
+      "niche": "Hydration & Performance",
+      "growthSignal": "$12M+ revenue; athlete partnerships; complete formula",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Citterio",
+      "website": "citterio.com",
+      "email": "contact@citterio.com",
+      "firstName": "Marco",
+      "niche": "European Hydration",
+      "growthSignal": "$8M+ revenue; international brand; clean formula",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "BioSteel",
+      "website": "biosteel.com",
+      "email": "partnerships@biosteel.com",
+      "firstName": "John",
+      "niche": "Sports Performance Hydration",
+      "growthSignal": "$20M+ revenue; athlete-focused; NHL partnerships",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Science in Sport",
+      "website": "scienceinsport.com",
+      "email": "hello@sis.com",
+      "firstName": "Stephen",
+      "niche": "Endurance Hydration",
+      "growthSignal": "$30M+ revenue; pro cyclist brand; UK-based",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Maurten",
+      "website": "maurten.com",
+      "email": "press@maurten.com",
+      "firstName": "Anders",
+      "niche": "Performance Hydration",
+      "growthSignal": "$25M+ revenue; elite endurance; innovation-driven",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Gatorade Endurance",
+      "website": "gatorade.com",
+      "email": "contact@gatorade.com",
+      "firstName": "Robert",
+      "niche": "Sports Drink Category Leader",
+      "growthSignal": "$2B+ parent revenue; PepsiCo owned; global giant",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Scratch Labs",
+      "website": "scratchlabs.com",
+      "email": "hello@scratch.com",
+      "firstName": "Allen",
+      "niche": "Natural Sports Drink",
+      "growthSignal": "$20M+ revenue; athlete-approved; clean ingredients",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Tailwind Nutrition",
+      "website": "tailwindnutrition.com",
+      "email": "partnerships@tailwind.com",
+      "firstName": "Chris",
+      "niche": "Athlete Hydration & Calories",
+      "growthSignal": "$15M+ revenue; endurance athlete focused; all-in-one",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Generation UCAN",
+      "website": "generationucan.com",
+      "email": "hello@ucan.com",
+      "firstName": "James",
+      "niche": "Sustained Energy Hydration",
+      "growthSignal": "$20M+ revenue; SuperStarch formula; sustained release",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Muir Energy",
+      "website": "muirenergy.com",
+      "email": "press@muir.com",
+      "firstName": "David",
+      "niche": "Clean Energy Hydration",
+      "growthSignal": "$8M+ revenue; natural ingredients; energy bar brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Beam Organics",
+      "website": "beamorganics.com",
+      "email": "hello@beamorganics.com",
+      "firstName": "Kevin",
+      "niche": "Sleep/Recovery Supplements",
+      "growthSignal": "Dream Powder viral on TikTok; $20M revenue; 400K+ customers",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Needed",
+      "website": "thisisneeded.com",
+      "email": "partnerships@thisisneeded.com",
+      "firstName": "Ryan",
+      "niche": "Women's Prenatal Supplements",
+      "growthSignal": "OB-recommended; evidence-based prenatal line; growing DTC subscription",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Beekeeper's Naturals",
+      "website": "beekeepersnaturals.com",
+      "email": "press@beekeepersnaturals.com",
+      "firstName": "Carly",
+      "niche": "Propolis/Bee-Derived Wellness",
+      "growthSignal": "Viral B.Powered honey; Whole Foods expansion; $10M Series A",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pendulum",
+      "website": "pendulumlife.com",
+      "email": "hello@pendulumlife.com",
+      "firstName": "Colleen",
+      "niche": "Metabolic Health Probiotics",
+      "growthSignal": "First probiotic with Akkermansia; $20M raise; subscriptions-first",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Levels Health",
+      "website": "levelshealth.com",
+      "email": "press@levelshealth.com",
+      "firstName": "Josh",
+      "niche": "Metabolic/CGM Wellness",
+      "growthSignal": "$38M raise; 50K+ waitlist; metabolic wellness trend leader",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Cymbiotika",
+      "website": "cymbiotika.com",
+      "email": "collab@cymbiotika.com",
+      "firstName": "Chervin",
+      "niche": "Liposomal Supplement Technology",
+      "growthSignal": "DTC powerhouse; clean formulas; 300K+ customers; celebrity fans",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "ARMRA Colostrum",
+      "website": "tryarmra.com",
+      "email": "hello@tryarmra.com",
+      "firstName": "Sarah",
+      "niche": "Colostrum Supplements",
+      "growthSignal": "Viral TikTok; 200%+ YoY growth; Joe Rogan mention",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Momentous",
+      "website": "livemomentous.com",
+      "email": "partnerships@livemomentous.com",
+      "firstName": "Jeff",
+      "niche": "Elite Sports Nutrition",
+      "growthSignal": "NFL/NBA team partnerships; Andrew Huberman collab; NSF certified",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Gainful",
+      "website": "gainful.com",
+      "email": "press@gainful.com",
+      "firstName": "Eric",
+      "niche": "Personalized Protein/Nutrition",
+      "growthSignal": "$7.5M funding; personalized quiz model; 150K+ subscribers",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "HVMN Ketone",
+      "website": "hvmn.com",
+      "email": "hello@hvmn.com",
+      "firstName": "Geoffrey",
+      "niche": "Ketone Performance",
+      "growthSignal": "US Military contract; Tour de France riders; ketone IQ launch",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lumen",
+      "website": "lumen.me",
+      "email": "media@lumen.me",
+      "firstName": "Michal",
+      "niche": "Metabolic Tracking Device",
+      "growthSignal": "$70M raised; breath metabolism testing; 200K+ users",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Pique Tea",
+      "website": "piquelife.com",
+      "email": "collab@piquelife.com",
+      "firstName": "Simon",
+      "niche": "Functional Tea/Wellness Crystals",
+      "growthSignal": "Andrew Huberman sponsorship; $20M revenue; fasting-friendly teas",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Moon Juice",
+      "website": "moonjuice.com",
+      "email": "press@moonjuice.com",
+      "firstName": "Amanda",
+      "niche": "Adaptogen/Mushroom Blends",
+      "growthSignal": "LA cult brand; Sephora expansion; celebrity wellness following",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "HUM Nutrition",
+      "website": "humnutrition.com",
+      "email": "hello@humnutrition.com",
+      "firstName": "Walter",
+      "niche": "Beauty-from-Within Supplements",
+      "growthSignal": "Sephora exclusive; RD-formulated; 4M+ product reviews",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Thesis Nootropics",
+      "website": "takethesis.com",
+      "email": "partnerships@takethesis.com",
+      "firstName": "Dan",
+      "niche": "Personalized Nootropics",
+      "growthSignal": "Subscription model; 50K+ customers; custom blend quiz",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Raw Nutrition",
+      "website": "getrawnutrition.com",
+      "email": "collab@getrawnutrition.com",
+      "firstName": "Chris",
+      "niche": "Sports/Bodybuilding Supplements",
+      "growthSignal": "Chris Bumstead brand; 1M+ Instagram; fastest-growing sports brand",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Bloom Nutrition",
+      "website": "bloomnu.com",
+      "email": "press@bloomnu.com",
+      "firstName": "Mari",
+      "niche": "Women's Greens & Protein",
+      "growthSignal": "Mari Llewellyn founder; 1.5M TikTok; $30M+ revenue",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Olipop",
+      "website": "drinkolipop.com",
+      "email": "hello@drinkolipop.com",
+      "firstName": "Ben",
+      "niche": "Gut Health Soda Alternative",
+      "growthSignal": "$30M Series B; $200M revenue; Whole Foods #1 prebiotic soda",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Poppi",
+      "website": "drinkpoppi.com",
+      "email": "partnerships@drinkpoppi.com",
+      "firstName": "Allison",
+      "niche": "Prebiotic Soda",
+      "growthSignal": "Shark Tank success; $100M+ revenue; acquired by PepsiCo 2024",
+      "variant": "B"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Recess",
+      "website": "takearecess.com",
+      "email": "media@takearecess.com",
+      "firstName": "Benjamin",
+      "niche": "CBD/Adaptogen Sparkling Water",
+      "growthSignal": "Stressed millennials target; $22M raise; nationwide retail",
+      "variant": "A"
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Organifi",
+      "website": "organifi.com",
+      "email": "collab@organifi.com",
+      "firstName": "Drew",
+      "niche": "Superfood Green Juice Powder",
+      "growthSignal": "$100M+ revenue; podcast advertising powerhouse; DTC subscription model",
+      "variant": "B"
+    }
+  }
+]
