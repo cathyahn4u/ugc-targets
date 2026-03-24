@@ -1,21 +1,10 @@
 [
   {
     "brand": {
-      "brandName": "Topicals",
-      "website": "mytopicals.com",
-      "email": "ashley@mytopicals.com",
-      "firstName": "Olamide",
-      "niche": "Hyperpigmentation Serum DTC",
-      "growthSignal": "Black-owned Shopify DTC; viral Faded serum; Sephora Accelerate; under $5M ARR and scaling",
-      "variant": "A"
-    }
-  },
-  {
-    "brand": {
       "brandName": "Selfmade",
       "website": "selfmade.life",
       "email": "ken@selfmade.life",
-      "firstName": "Stephanie",
+      "firstName": "Ken",
       "niche": "Psychological Skincare DTC",
       "growthSignal": "Mental wellness-meets-beauty angle; indie Shopify DTC; growing newsletter community; sub-$5M ARR",
       "variant": "B"
@@ -26,7 +15,7 @@
       "brandName": "Eadem",
       "website": "eadem.co",
       "email": "marie@eadem.co",
-      "firstName": "Alice",
+      "firstName": "Marie",
       "niche": "Melanin-Optimized Serums",
       "growthSignal": "Harvard-founded; science-first for deeper skin tones; $2M ARR Shopify DTC; Black-founded",
       "variant": "A"
@@ -37,7 +26,7 @@
       "brandName": "Soft Services",
       "website": "softservices.co",
       "email": "julia@softservices.co",
-      "firstName": "Rebecca",
+      "firstName": "Julia",
       "niche": "Body Skincare Indie DTC",
       "growthSignal": "Viral Buffing Bar; editorial darling; Shopify DTC growing; estimated $2-4M ARR",
       "variant": "B"
@@ -48,7 +37,7 @@
       "brandName": "Stratia Skin",
       "website": "stratiaskin.com",
       "email": "evan@stratiaskin.com",
-      "firstName": "Rachael",
+      "firstName": "Evan",
       "niche": "Barrier Repair Skincare",
       "growthSignal": "Reddit-built following; cult Liquid Gold serum; science-backed indie DTC; ~$2M ARR",
       "variant": "A"
@@ -92,7 +81,7 @@
       "brandName": "Experiment Beauty",
       "website": "experiment.com",
       "email": "denny@experiment.com",
-      "firstName": "Doris",
+      "firstName": "Denny",
       "niche": "Lab-Inspired DTC Skincare",
       "growthSignal": "Science aesthetic branding; growing Shopify DTC; Gen Z editorial coverage; $1-3M ARR",
       "variant": "A"
@@ -103,7 +92,7 @@
       "brandName": "Covey Skin",
       "website": "coveyskin.com",
       "email": "christina@coveyskin.com",
-      "firstName": "Tiffany",
+      "firstName": "Christina",
       "niche": "Science-Backed Daily Skincare",
       "growthSignal": "Derm-formulated; editorial-featured; clean indie DTC growing; $1-3M ARR",
       "variant": "A"
@@ -114,7 +103,7 @@
       "brandName": "Kulfi Beauty",
       "website": "kulfibeauty.com",
       "email": "amina@kulfibeauty.com",
-      "firstName": "Priyanka",
+      "firstName": "Amina",
       "niche": "South Asian-Inspired Makeup",
       "growthSignal": "BIPOC-founded; viral kohl eyeliner; emerging Shopify DTC; $1-2M ARR",
       "variant": "B"
@@ -125,7 +114,7 @@
       "brandName": "Pai Skincare",
       "website": "paiskincare.com",
       "email": "neil@paiskincare.com",
-      "firstName": "Sarah",
+      "firstName": "Neil",
       "niche": "Certified Organic Sensitive Skincare",
       "growthSignal": "UK-founded; growing US DTC Shopify; rosehip BioRegenerate viral; ~$3M ARR US",
       "variant": "B"
@@ -136,7 +125,7 @@
       "brandName": "Living Libations",
       "website": "livinglibations.com",
       "email": "brittney@livinglibations.com",
-      "firstName": "Nadine",
+      "firstName": "Brittney",
       "niche": "Wildcrafted Botanical Skincare",
       "growthSignal": "Artisan Canada DTC Shopify; cult Seabuckthorn range; growing wild-harvested niche",
       "variant": "A"
@@ -147,7 +136,7 @@
       "brandName": "Kypris Beauty",
       "website": "kyprisbeauty.com",
       "email": "brittney@kyprisbeauty.com",
-      "firstName": "Christine",
+      "firstName": "Brittney",
       "niche": "Meadow-Sourced Luxury Serums",
       "growthSignal": "Small-batch artisan; Credo-carried; growing luxury botanical DTC; $1-2M ARR",
       "variant": "B"
@@ -158,7 +147,7 @@
       "brandName": "Nuria Beauty",
       "website": "nuriabeauty.com",
       "email": "naomi@nuriabeauty.com",
-      "firstName": "Farah",
+      "firstName": "Naomi",
       "niche": "Asian-Inspired Barrier Skincare",
       "growthSignal": "Asian skin rituals DTC; multicultural skincare market; Shopify growing; $2-4M ARR",
       "variant": "A"
@@ -169,7 +158,7 @@
       "brandName": "Cocokind",
       "website": "cocokind.com",
       "email": "maria@cocokind.com",
-      "firstName": "Priscilla",
+      "firstName": "Maria",
       "niche": "Affordable Transparent Clean Skincare",
       "growthSignal": "Ingredient deck on packaging viral; Milk Toner; Target + DTC; started at $1-3M ARR",
       "variant": "A"
@@ -191,7 +180,7 @@
       "brandName": "Dew Mighty",
       "website": "dewmighty.com",
       "email": "karina@dewmighty.com",
-      "firstName": "Ethel",
+      "firstName": "Karina",
       "niche": "Waterless Concentrated Skincare",
       "growthSignal": "Zero-waste solid serum; Shopify DTC; growing waterless beauty niche; $1M ARR",
       "variant": "B"
@@ -224,7 +213,7 @@
       "brandName": "Womaness",
       "website": "womaness.com",
       "email": "amy@womaness.com",
-      "firstName": "Michelle",
+      "firstName": "Amy",
       "niche": "Menopause Wellness Beauty",
       "growthSignal": "Underserved 40+ market; Shopify DTC; growing femtech beauty segment; $2M ARR",
       "variant": "A"
@@ -246,7 +235,7 @@
       "brandName": "Osea Malibu",
       "website": "oseamalibu.com",
       "email": "christine.akin@oseamalibu.com",
-      "firstName": "Jenefer",
+      "firstName": "Christine",
       "niche": "Seaweed-Based Skincare DTC",
       "growthSignal": "Family-founded 25+ years; Shopify DTC; growing organic seaweed niche; $3-5M ARR",
       "variant": "B"
@@ -257,7 +246,7 @@
       "brandName": "Josh Rosebrook",
       "website": "joshrosebrook.com",
       "email": "jackie@joshrosebrook.com",
-      "firstName": "Josh",
+      "firstName": "Jackie",
       "niche": "Whole Plant Organic Skincare",
       "growthSignal": "Erewhon-featured; small-batch DTC; growing herbalist beauty niche; $1-2M ARR",
       "variant": "A"
@@ -279,7 +268,7 @@
       "brandName": "Beneath Your Mask",
       "website": "beneathyourmask.com",
       "email": "dana@beneathyourmask.com",
-      "firstName": "Sharon",
+      "firstName": "Dana",
       "niche": "Black-Owned Luxury Masking",
       "growthSignal": "Oprah-featured; Black-founded; Sephora Accelerate; healing masks; $1-3M ARR",
       "variant": "A"
@@ -290,7 +279,7 @@
       "brandName": "UpCircle Beauty",
       "website": "upcirclebeauty.com",
       "email": "connie@upcirclebeauty.com",
-      "firstName": "Anna",
+      "firstName": "Connie",
       "niche": "Upcycled Ingredient Skincare",
       "growthSignal": "UK B Corp; coffee scrub viral; growing circular beauty DTC; ~$2M ARR US",
       "variant": "B"
@@ -312,7 +301,7 @@
       "brandName": "Agent Nateur",
       "website": "agentnateur.com",
       "email": "landes@agentnateur.com",
-      "firstName": "Jena",
+      "firstName": "Landes",
       "niche": "Luxury Clean Deodorant/Skincare",
       "growthSignal": "Cult holi(c) deodorant; Goop-featured; growing premium clean DTC; $2-4M ARR",
       "variant": "A"
@@ -323,7 +312,7 @@
       "brandName": "Ursa Major",
       "website": "ursamajorvt.com",
       "email": "leslie@ursamajorvt.com",
-      "firstName": "Emily",
+      "firstName": "Leslie",
       "niche": "Vermont Nature-Inspired Skincare",
       "growthSignal": "B Corp; gender-inclusive; Sephora + DTC; clean essentials model; $3-5M ARR",
       "variant": "B"
@@ -356,7 +345,7 @@
       "brandName": "Elate Beauty",
       "website": "elatebeauty.com",
       "email": "megan@elatebeauty.com",
-      "firstName": "Melodie",
+      "firstName": "Megan",
       "niche": "Sustainable Refillable Makeup",
       "growthSignal": "Canada-based B Corp; refillable pans; growing zero-waste beauty niche; $1-2M ARR",
       "variant": "B"
@@ -367,7 +356,7 @@
       "brandName": "Kypris Clearing Serum",
       "website": "kyprisbeauty.com",
       "email": "brittney@kyprisbeauty.com",
-      "firstName": "Dawn",
+      "firstName": "Brittney",
       "niche": "Acne-Prone Botanical Serum",
       "growthSignal": "Small-batch meadow-sourced; indie Shopify DTC; loyal esthetician community",
       "variant": "B"
@@ -378,7 +367,7 @@
       "brandName": "Nuria Rescue Mask",
       "website": "nuriabeauty.com",
       "email": "naomi@nuriabeauty.com",
-      "firstName": "Lin",
+      "firstName": "Naomi",
       "niche": "Asian-Ritual Hydration Masks",
       "growthSignal": "Shopify DTC; multicultural beauty angle; growing US interest; $1-2M ARR",
       "variant": "A"
@@ -400,7 +389,7 @@
       "brandName": "Vacation Inc.",
       "website": "vacation.inc",
       "email": "lach@vacation.inc",
-      "firstName": "Dakota",
+      "firstName": "Lach",
       "niche": "Retro-Aesthetic SPF DTC",
       "growthSignal": "Viral brand identity; 500K+ social; Shopify DTC cult sunscreen following; $3-5M ARR",
       "variant": "A"
@@ -444,7 +433,7 @@
       "brandName": "Corpus Naturals",
       "website": "corpusnaturals.com",
       "email": "charlene@corpusnaturals.com",
-      "firstName": "Julia",
+      "firstName": "Charlene",
       "niche": "Gender-Neutral Fragrant Body Care",
       "growthSignal": "Fragrance-forward clean formulas; growing Shopify DTC; $1-3M ARR",
       "variant": "B"
